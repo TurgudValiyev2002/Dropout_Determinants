@@ -1,0 +1,25 @@
+experiment,experiment_key,feature,mean_abs_shap
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (approved),0.7985922465262786
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Tuition fees up to date,0.33535153621210323
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Age at enrollment,0.185971000252314
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (enrolled),0.18289645662170473
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Displaced,0.1283518456756636
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (grade),0.12176982932593104
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Admission grade,0.1127452722891141
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (approved),0.1089649184614538
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (evaluations),0.09486311945686655
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (evaluations),0.08158192646502281
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Previous qualification (grade),0.06901796799338879
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (grade),0.06858748812057051
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Scholarship holder,0.06773267309016216
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (enrolled),0.06417736275407056
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Debtor,0.05051699322925382
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (credited),0.03745099714125582
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Gender,0.021805150841803875
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (credited),0.012714564213405003
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Marital status,0.012689689255315172
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (without evaluations),0.008392715330724325
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (without evaluations),0.003882671259666598
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Nacionality,0.0027000443949857424
+Academic + demographic-financial tuned,academic_plus_demographic_financial,International,0.0
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Educational special needs,0.0

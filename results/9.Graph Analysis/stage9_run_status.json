@@ -1,0 +1,10 @@
+{
+  "student_nodes": 4424,
+  "student_edges": 36303,
+  "student_communities": 10,
+  "course_nodes": 17,
+  "course_edges": 3,
+  "course_communities": 15,
+  "course_edges_relaxed_top3": 36,
+  "course_communities_relaxed_top3": 2
+}

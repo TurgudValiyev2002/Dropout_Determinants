@@ -1,0 +1,10 @@
+Split,Target,count,percent_within_split
+test,Dropout,142,0.3212669683257919
+test,Enrolled,79,0.17873303167420815
+test,Graduate,221,0.5
+train,Dropout,995,0.3212786567646109
+train,Enrolled,556,0.17952857604133032
+train,Graduate,1546,0.49919276719405875
+validation,Dropout,284,0.32090395480225986
+validation,Enrolled,159,0.17966101694915254
+validation,Graduate,442,0.4994350282485876

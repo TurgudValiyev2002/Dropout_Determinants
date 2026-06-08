@@ -1,0 +1,6 @@
+Risk cluster,n,Observed dropout,Predicted risk,Mean 2nd-sem approved,Unpaid tuition,Recommended action
+Severe academic non-progression risk,720,81.5%,81.4%,0.03,29.3%,Mandatory academic advising and course-completion intervention
+Financial-academic emergency risk,66,63.6%,63.8%,2.29,34.8%,Combine financial outreach with urgent academic completion support
+Academic delay with financial vulnerability,1129,52.3%,46.1%,3.17,20.7%,Prioritize course-completion advising and payment-status monitoring
+Older high-workload moderate risk,249,20.5%,22.1%,10.35,8.4%,Offer flexible scheduling and light-touch persistence monitoring
+Low-risk academically stable group,2260,6.7%,8.2%,5.88,1.7%,Maintain light monitoring; use as reference profile

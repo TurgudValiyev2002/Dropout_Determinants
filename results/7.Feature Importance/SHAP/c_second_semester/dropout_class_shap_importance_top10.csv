@@ -1,0 +1,11 @@
+experiment,experiment_key,feature,global_mean_abs_shap,dropout_mean_abs_shap,encoded_columns
+Stage C tuned,C_second_semester,Curricular units 2nd sem (approved),0.6864679041565447,0.7695256838403061,1
+Stage C tuned,C_second_semester,Tuition fees up to date,0.22901650202245127,0.3741353665324566,2
+Stage C tuned,C_second_semester,Course,0.21120017895456522,0.1848631455792351,17
+Stage C tuned,C_second_semester,Age at enrollment,0.10746894324723417,0.1763430484369816,1
+Stage C tuned,C_second_semester,Curricular units 2nd sem (enrolled),0.08575344801197587,0.1264041420165125,1
+Stage C tuned,C_second_semester,Curricular units 2nd sem (grade),0.14426761576469693,0.12561617001093014,1
+Stage C tuned,C_second_semester,Father's occupation,0.12003565250368552,0.12550311060296154,41
+Stage C tuned,C_second_semester,Curricular units 1st sem (approved),0.21640226966585138,0.11312784850693611,1
+Stage C tuned,C_second_semester,Application order,0.08487031709886156,0.10759140336049323,6
+Stage C tuned,C_second_semester,Unemployment rate,0.08160564682318396,0.10570875599681297,1

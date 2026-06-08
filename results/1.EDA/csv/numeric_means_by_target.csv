@@ -1,0 +1,37 @@
+,Dropout,Enrolled,Graduate
+Marital status,1.2611,1.1524,1.1349
+Application mode,23.7129,19.7997,15.0181
+Application order,1.5932,1.6259,1.8511
+Course,8755.6298,8868.8111,8917.2481
+Daytime/evening attendance,0.8543,0.9055,0.909
+Previous qualification,5.311,4.7859,4.0312
+Previous qualification (grade),131.1141,131.2084,134.0827
+Nacionality,1.9571,2.0793,1.7451
+Mother's qualification,21.0352,17.6222,19.3115
+Father's qualification,22.6833,20.9207,22.4998
+Mother's occupation,10.1161,14.7204,10.153
+Father's occupation,10.1414,14.4584,10.3739
+Admission grade,124.9614,125.5343,128.7944
+Displaced,0.4708,0.5453,0.5994
+Educational special needs,0.012,0.0139,0.0104
+Debtor,0.2196,0.1134,0.0457
+Tuition fees up to date,0.6784,0.9471,0.9869
+Gender,0.4933,0.3866,0.2481
+Scholarship holder,0.0943,0.1637,0.378
+Age at enrollment,26.069,22.369,21.7836
+International,0.0225,0.0302,0.0244
+Curricular units 1st sem (credited),0.6094,0.5076,0.8474
+Curricular units 1st sem (enrolled),5.8213,5.9647,6.6695
+Curricular units 1st sem (evaluations),7.7516,9.3413,8.2766
+Curricular units 1st sem (approved),2.5517,4.3186,6.2322
+Curricular units 1st sem (grade),7.2567,11.1253,12.6437
+Curricular units 1st sem (without evaluations),0.1921,0.1776,0.0883
+Curricular units 2nd sem (credited),0.4497,0.3589,0.6668
+Curricular units 2nd sem (enrolled),5.7804,5.9383,6.6283
+Curricular units 2nd sem (evaluations),7.1738,9.4358,8.1421
+Curricular units 2nd sem (approved),1.9402,4.0579,6.177
+Curricular units 2nd sem (grade),5.8993,11.1174,12.6973
+Curricular units 2nd sem (without evaluations),0.2379,0.1877,0.0806
+Unemployment rate,11.6164,11.2725,11.6393
+Inflation rate,1.284,1.2117,1.1979
+GDP,-0.1509,0.0533,0.0818

@@ -1,0 +1,4 @@
+target_class,encoded_label
+Dropout,0
+Enrolled,1
+Graduate,2

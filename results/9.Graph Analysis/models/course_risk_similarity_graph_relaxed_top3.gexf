@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-08">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="n" type="long" />
+      <attribute id="1" title="dropout_rate" type="double" />
+    </attributes>
+    <nodes>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0.6666666666666666" />
+        </attvalues>
+      </node>
+      <node id="171" label="171">
+        <attvalues>
+          <attvalue for="0" value="215" />
+          <attvalue for="1" value="0.3813953488372093" />
+        </attvalues>
+      </node>
+      <node id="8014" label="8014">
+        <attvalues>
+          <attvalue for="0" value="215" />
+          <attvalue for="1" value="0.3302325581395349" />
+        </attvalues>
+      </node>
+      <node id="9003" label="9003">
+        <attvalues>
+          <attvalue for="0" value="210" />
+          <attvalue for="1" value="0.4095238095238095" />
+        </attvalues>
+      </node>
+      <node id="9070" label="9070">
+        <attvalues>
+          <attvalue for="0" value="226" />
+          <attvalue for="1" value="0.22566371681415928" />
+        </attvalues>
+      </node>
+      <node id="9085" label="9085">
+        <attvalues>
+          <attvalue for="0" value="337" />
+          <attvalue for="1" value="0.26706231454005935" />
+        </attvalues>
+      </node>
+      <node id="9119" label="9119">
+        <attvalues>
+          <attvalue for="0" value="170" />
+          <attvalue for="1" value="0.5411764705882353" />
+        </attvalues>
+      </node>
+      <node id="9130" label="9130">
+        <attvalues>
+          <attvalue for="0" value="141" />
+          <attvalue for="1" value="0.5531914893617021" />
+        </attvalues>
+      </node>
+      <node id="9147" label="9147">
+        <attvalues>
+          <attvalue for="0" value="380" />
+          <attvalue for="1" value="0.3526315789473684" />
+        </attvalues>
+      </node>
+      <node id="9238" label="9238">
+        <attvalues>
+          <attvalue for="0" value="355" />
+          <attvalue for="1" value="0.18309859154929578" />
+        </attvalues>
+      </node>
+      <node id="9254" label="9254">
+        <attvalues>
+          <attvalue for="0" value="252" />
+          <attvalue for="1" value="0.38095238095238093" />
+        </attvalues>
+      </node>
+      <node id="9500" label="9500">
+        <attvalues>
+          <attvalue for="0" value="766" />
+          <attvalue for="1" value="0.15404699738903394" />
+        </attvalues>
+      </node>
+      <node id="9556" label="9556">
+        <attvalues>
+          <attvalue for="0" value="86" />
+          <attvalue for="1" value="0.38372093023255816" />
+        </attvalues>
+      </node>
+      <node id="9670" label="9670">
+        <attvalues>
+          <attvalue for="0" value="268" />
+          <attvalue for="1" value="0.35447761194029853" />
+        </attvalues>
+      </node>
+      <node id="9773" label="9773">
+        <attvalues>
+          <attvalue for="0" value="331" />
+          <attvalue for="1" value="0.30513595166163143" />
+        </attvalues>
+      </node>
+      <node id="9853" label="9853">
+        <attvalues>
+          <attvalue for="0" value="192" />
+          <attvalue for="1" value="0.4427083333333333" />
+        </attvalues>
+      </node>
+      <node id="9991" label="9991">
+        <attvalues>
+          <attvalue for="0" value="268" />
+          <attvalue for="1" value="0.5074626865671642" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="33" target="9003" id="0" weight="0.8021521836881574" />
+      <edge source="33" target="9130" id="1" weight="0.5707362262676812" />
+      <edge source="33" target="9991" id="2" weight="0.5157279958075167" />
+      <edge source="33" target="9853" id="3" weight="0.25845593636061426" />
+      <edge source="171" target="9119" id="4" weight="0.38179700059702426" />
+      <edge source="171" target="9130" id="5" weight="0.32789136785752304" />
+      <edge source="171" target="9147" id="6" weight="0.2969171515948867" />
+      <edge source="8014" target="9991" id="7" weight="0.3369348757522192" />
+      <edge source="8014" target="9003" id="8" weight="0.3259997835858859" />
+      <edge source="8014" target="9500" id="9" weight="0.259320352690104" />
+      <edge source="9003" target="9991" id="10" weight="0.45062759886718073" />
+      <edge source="9003" target="9130" id="11" weight="0.37614522608647516" />
+      <edge source="9070" target="9500" id="12" weight="0.9747663561288836" />
+      <edge source="9070" target="9238" id="13" weight="0.9018768587904236" />
+      <edge source="9070" target="9773" id="14" weight="0.7233661916405348" />
+      <edge source="9070" target="9085" id="15" weight="0.6204839858562304" />
+      <edge source="9070" target="9556" id="16" weight="0.5496659791480617" />
+      <edge source="9085" target="9670" id="17" weight="0.5618313907168533" />
+      <edge source="9085" target="9500" id="18" weight="0.5210421552332681" />
+      <edge source="9085" target="9147" id="19" weight="0.43538759912816133" />
+      <edge source="9119" target="9147" id="20" weight="0.7106055645130229" />
+      <edge source="9119" target="9130" id="21" weight="0.5876837508857304" />
+      <edge source="9119" target="9991" id="22" weight="0.4646173099764081" />
+      <edge source="9119" target="9853" id="23" weight="0.3796570678031703" />
+      <edge source="9130" target="9991" id="24" weight="0.5966704466260583" />
+      <edge source="9147" target="9853" id="25" weight="0.35888348661039154" />
+      <edge source="9238" target="9500" id="26" weight="0.9070694363262594" />
+      <edge source="9238" target="9773" id="27" weight="0.8667431677186338" />
+      <edge source="9238" target="9670" id="28" weight="0.6602467691148413" />
+      <edge source="9238" target="9556" id="29" weight="0.4779615509366562" />
+      <edge source="9238" target="9254" id="30" weight="0.454718761824578" />
+      <edge source="9254" target="9670" id="31" weight="0.6574506167300653" />
+      <edge source="9254" target="9773" id="32" weight="0.635652364566729" />
+      <edge source="9500" target="9773" id="33" weight="0.7437198755178405" />
+      <edge source="9500" target="9556" id="34" weight="0.6168169800304736" />
+      <edge source="9670" target="9773" id="35" weight="0.7479921982425393" />
+    </edges>
+  </graph>
+</gexf>

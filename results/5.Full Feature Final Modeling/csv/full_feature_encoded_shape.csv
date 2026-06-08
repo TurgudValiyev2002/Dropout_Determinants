@@ -1,0 +1,2 @@
+feature_set,raw_features,numeric_features,categorical_features,encoded_features,train_rows,validation_rows,test_rows
+full,36,18,18,244,3097,885,442

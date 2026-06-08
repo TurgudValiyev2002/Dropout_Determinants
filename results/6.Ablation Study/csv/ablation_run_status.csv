@@ -1,0 +1,6 @@
+ablation_block,folder,raw_features,numeric_features,categorical_features,encoded_features,train_rows,validation_rows,test_rows,baseline_rows,tuning_candidates,tuned_rows,baseline_failures,tuning_failures
+academic_only,1.Academic only,14,14,0,14,3097,885,442,21,150,21,0,0
+academic_plus_financial_demographic,2.Academic + demographic-financial,24,15,9,54,3097,885,442,21,150,21,0,0
+academic_plus_parental,3.Academic + parental education,18,14,4,144,3097,885,442,21,150,21,0,0
+academic_plus_macro,4.Academic + macroeconomic,17,17,0,17,3097,885,442,21,150,21,0,0
+academic_plus_course_application,5.Academic + course-application,17,14,3,53,3097,885,442,21,150,21,0,0

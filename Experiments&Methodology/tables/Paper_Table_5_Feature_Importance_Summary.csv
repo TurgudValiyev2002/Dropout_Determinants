@@ -1,0 +1,6 @@
+Model setting,Model,Test Macro-F1,Top permutation feature,Top dropout SHAP feature
+Stage A tuned,LightGBM,0.571,Tuition fees up to date,Tuition fees up to date
+Stage B tuned,LightGBM,0.68,Curricular units 1st sem (approved),Curricular units 1st sem (approved)
+Stage C tuned,LightGBM,0.698,Curricular units 2nd sem (approved),Curricular units 2nd sem (approved)
+Full feature tuned,LightGBM,0.702,Curricular units 2nd sem (approved),Curricular units 2nd sem (approved)
+Academic + demographic-financial tuned,LightGBM,0.698,Curricular units 2nd sem (approved),Curricular units 2nd sem (approved)

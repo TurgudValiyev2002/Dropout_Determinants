@@ -1,0 +1,31 @@
+experiment,experiment_key,feature,mean_abs_shap
+Stage B tuned,B_first_semester,Curricular units 1st sem (approved),0.6917035295815686
+Stage B tuned,B_first_semester,Tuition fees up to date,0.3590785035101183
+Stage B tuned,B_first_semester,Curricular units 1st sem (grade),0.17294308728679436
+Stage B tuned,B_first_semester,Age at enrollment,0.17124324391182133
+Stage B tuned,B_first_semester,Curricular units 1st sem (enrolled),0.1151659606512595
+Stage B tuned,B_first_semester,Unemployment rate,0.11170108083178422
+Stage B tuned,B_first_semester,Gender,0.09366444526643365
+Stage B tuned,B_first_semester,Course,0.09238986497769039
+Stage B tuned,B_first_semester,Scholarship holder,0.08603772122418603
+Stage B tuned,B_first_semester,Displaced,0.08314058743795746
+Stage B tuned,B_first_semester,Admission grade,0.0827425005008742
+Stage B tuned,B_first_semester,Father's occupation,0.06131355415805441
+Stage B tuned,B_first_semester,Curricular units 1st sem (credited),0.05803369899542831
+Stage B tuned,B_first_semester,Application order,0.05310909915231505
+Stage B tuned,B_first_semester,Application mode,0.05262202102231452
+Stage B tuned,B_first_semester,GDP,0.05049297448723905
+Stage B tuned,B_first_semester,Previous qualification (grade),0.050291749251073825
+Stage B tuned,B_first_semester,Debtor,0.04548134208489666
+Stage B tuned,B_first_semester,Mother's occupation,0.040284873029495724
+Stage B tuned,B_first_semester,Mother's qualification,0.03808670070785248
+Stage B tuned,B_first_semester,Curricular units 1st sem (evaluations),0.037610485378449444
+Stage B tuned,B_first_semester,Inflation rate,0.023880468155131805
+Stage B tuned,B_first_semester,Father's qualification,0.019426274322675588
+Stage B tuned,B_first_semester,Previous qualification,0.009023497604498457
+Stage B tuned,B_first_semester,Marital status,0.006088489803747671
+Stage B tuned,B_first_semester,Curricular units 1st sem (without evaluations),0.003955336209021439
+Stage B tuned,B_first_semester,Daytime/evening attendance,0.0029549827623459317
+Stage B tuned,B_first_semester,Nacionality,0.0
+Stage B tuned,B_first_semester,International,0.0
+Stage B tuned,B_first_semester,Educational special needs,0.0

@@ -1,0 +1,233 @@
+variable,category,n,dropout_rate
+Tuition fees up to date,0,528,0.865530303030303
+Tuition fees up to date,1,3896,0.24743326488706366
+Debtor,1,503,0.6202783300198808
+Debtor,0,3921,0.28283601122162716
+Scholarship holder,0,3325,0.38706766917293234
+Scholarship holder,1,1099,0.12192902638762511
+Gender,1,1556,0.4505141388174807
+Gender,0,2868,0.2510460251046025
+Displaced,0,1998,0.3763763763763764
+Displaced,1,2426,0.275762572135202
+Daytime/evening attendance,0,483,0.42857142857142855
+Daytime/evening attendance,1,3941,0.30804364374524235
+Marital status,6,6,0.6666666666666666
+Marital status,2,379,0.47229551451187335
+Marital status,4,91,0.46153846153846156
+Marital status,5,25,0.44
+Marital status,1,3919,0.3021178872161266
+Marital status,3,4,0.25
+Course,33,12,0.6666666666666666
+Course,9130,141,0.5531914893617021
+Course,9119,170,0.5411764705882353
+Course,9991,268,0.5074626865671642
+Course,9853,192,0.4427083333333333
+Course,9003,210,0.4095238095238095
+Course,9556,86,0.38372093023255816
+Course,171,215,0.3813953488372093
+Course,9254,252,0.38095238095238093
+Course,9670,268,0.35447761194029853
+Course,9147,380,0.3526315789473684
+Course,8014,215,0.3302325581395349
+Course,9773,331,0.30513595166163143
+Course,9085,337,0.26706231454005935
+Course,9070,226,0.22566371681415928
+Course,9238,355,0.18309859154929578
+Course,9500,766,0.15404699738903394
+Application mode,27,1,1.0
+Application mode,26,1,1.0
+Application mode,2,3,0.6666666666666666
+Application mode,7,139,0.6115107913669064
+Application mode,39,785,0.554140127388535
+Application mode,42,77,0.44155844155844154
+Application mode,43,312,0.3685897435897436
+Application mode,18,124,0.3629032258064516
+Application mode,51,59,0.3389830508474576
+Application mode,10,10,0.3
+Application mode,44,213,0.29577464788732394
+Application mode,17,872,0.29357798165137616
+Application mode,1,1708,0.20199063231850117
+Application mode,15,30,0.16666666666666666
+Application mode,16,38,0.13157894736842105
+Application mode,5,16,0.125
+Application mode,53,35,0.11428571428571428
+Application mode,57,1,0.0
+Previous qualification,5,1,1.0
+Previous qualification,14,1,1.0
+Previous qualification,9,11,1.0
+Previous qualification,10,4,0.75
+Previous qualification,2,23,0.6956521739130435
+Previous qualification,19,162,0.6419753086419753
+Previous qualification,3,126,0.5952380952380952
+Previous qualification,12,45,0.5777777777777777
+Previous qualification,15,2,0.5
+Previous qualification,4,8,0.5
+Previous qualification,6,16,0.4375
+Previous qualification,38,7,0.42857142857142855
+Previous qualification,40,40,0.35
+Previous qualification,43,6,0.3333333333333333
+Previous qualification,39,219,0.3150684931506849
+Previous qualification,1,3717,0.2900188323917137
+Previous qualification,42,36,0.16666666666666666
+Nacionality,17,1,1.0
+Nacionality,109,1,1.0
+Nacionality,100,3,0.6666666666666666
+Nacionality,21,2,0.5
+Nacionality,101,2,0.5
+Nacionality,105,2,0.5
+Nacionality,41,38,0.3684210526315789
+Nacionality,103,3,0.3333333333333333
+Nacionality,1,4314,0.3219749652294854
+Nacionality,22,13,0.3076923076923077
+Nacionality,6,13,0.3076923076923077
+Nacionality,24,5,0.2
+Nacionality,26,14,0.07142857142857142
+Nacionality,13,1,0.0
+Nacionality,11,3,0.0
+Nacionality,2,2,0.0
+Nacionality,14,1,0.0
+Nacionality,32,1,0.0
+Nacionality,25,2,0.0
+Nacionality,62,2,0.0
+Nacionality,108,1,0.0
+Mother's qualification,18,1,1.0
+Mother's qualification,44,1,1.0
+Mother's qualification,27,1,1.0
+Mother's qualification,6,4,0.75
+Mother's qualification,34,130,0.7384615384615385
+Mother's qualification,35,3,0.6666666666666666
+Mother's qualification,11,3,0.6666666666666666
+Mother's qualification,10,3,0.6666666666666666
+Mother's qualification,36,3,0.6666666666666666
+Mother's qualification,9,8,0.625
+Mother's qualification,12,42,0.5238095238095238
+Mother's qualification,39,8,0.5
+Mother's qualification,14,2,0.5
+Mother's qualification,42,4,0.5
+Mother's qualification,5,21,0.38095238095238093
+Mother's qualification,37,1009,0.379583746283449
+Mother's qualification,41,6,0.3333333333333333
+Mother's qualification,30,3,0.3333333333333333
+Mother's qualification,40,9,0.3333333333333333
+Mother's qualification,29,3,0.3333333333333333
+Mother's qualification,3,438,0.317351598173516
+Mother's qualification,19,953,0.28436516264428124
+Mother's qualification,1,1069,0.2806361085126286
+Mother's qualification,43,4,0.25
+Mother's qualification,38,562,0.2491103202846975
+Mother's qualification,2,83,0.24096385542168675
+Mother's qualification,4,49,0.16326530612244897
+Mother's qualification,26,1,0.0
+Mother's qualification,22,1,0.0
+Father's qualification,10,2,1.0
+Father's qualification,6,2,1.0
+Father's qualification,33,1,1.0
+Father's qualification,31,1,1.0
+Father's qualification,18,1,1.0
+Father's qualification,25,1,1.0
+Father's qualification,20,1,1.0
+Father's qualification,22,4,1.0
+Father's qualification,13,1,1.0
+Father's qualification,27,1,1.0
+Father's qualification,29,3,1.0
+Father's qualification,35,2,1.0
+Father's qualification,44,1,1.0
+Father's qualification,34,112,0.7232142857142857
+Father's qualification,36,8,0.625
+Father's qualification,40,5,0.6
+Father's qualification,5,18,0.5555555555555556
+Father's qualification,41,2,0.5
+Father's qualification,26,2,0.5
+Father's qualification,39,20,0.4
+Father's qualification,11,10,0.4
+Father's qualification,12,38,0.3684210526315789
+Father's qualification,4,39,0.358974358974359
+Father's qualification,37,1209,0.3573200992555831
+Father's qualification,2,68,0.3235294117647059
+Father's qualification,3,282,0.3191489361702128
+Father's qualification,1,904,0.3108407079646018
+Father's qualification,19,968,0.2727272727272727
+Father's qualification,30,4,0.25
+Father's qualification,14,4,0.25
+Father's qualification,38,702,0.2378917378917379
+Father's qualification,9,5,0.2
+Father's qualification,42,1,0.0
+Father's qualification,43,2,0.0
+Mother's occupation,99,17,0.7647058823529411
+Mother's occupation,90,70,0.7285714285714285
+Mother's occupation,0,144,0.6875
+Mother's occupation,8,36,0.4166666666666667
+Mother's occupation,1,102,0.38235294117647056
+Mother's occupation,2,318,0.32075471698113206
+Mother's occupation,9,1577,0.310716550412175
+Mother's occupation,4,817,0.30354957160342716
+Mother's occupation,5,530,0.2943396226415094
+Mother's occupation,7,272,0.29411764705882354
+Mother's occupation,123,7,0.2857142857142857
+Mother's occupation,6,91,0.2857142857142857
+Mother's occupation,3,351,0.2706552706552707
+Mother's occupation,10,4,0.25
+Mother's occupation,193,4,0.25
+Mother's occupation,134,4,0.25
+Mother's occupation,175,5,0.2
+Mother's occupation,194,11,0.09090909090909091
+Mother's occupation,125,1,0.0
+Mother's occupation,122,2,0.0
+Mother's occupation,143,3,0.0
+Mother's occupation,131,1,0.0
+Mother's occupation,132,3,0.0
+Mother's occupation,141,8,0.0
+Mother's occupation,152,2,0.0
+Mother's occupation,151,3,0.0
+Mother's occupation,144,6,0.0
+Mother's occupation,153,2,0.0
+Mother's occupation,173,1,0.0
+Mother's occupation,171,1,0.0
+Mother's occupation,192,5,0.0
+Mother's occupation,191,26,0.0
+Father's occupation,90,65,0.7076923076923077
+Father's occupation,99,19,0.6842105263157895
+Father's occupation,0,128,0.640625
+Father's occupation,112,2,0.5
+Father's occupation,194,2,0.5
+Father's occupation,4,386,0.3601036269430052
+Father's occupation,1,134,0.3582089552238806
+Father's occupation,2,197,0.3553299492385787
+Father's occupation,152,3,0.3333333333333333
+Father's occupation,9,1010,0.3198019801980198
+Father's occupation,10,266,0.31954887218045114
+Father's occupation,3,384,0.296875
+Father's occupation,8,318,0.29559748427672955
+Father's occupation,5,516,0.2868217054263566
+Father's occupation,6,242,0.28512396694214875
+Father's occupation,7,666,0.27627627627627627
+Father's occupation,103,4,0.25
+Father's occupation,193,15,0.13333333333333333
+Father's occupation,101,1,0.0
+Father's occupation,121,1,0.0
+Father's occupation,102,2,0.0
+Father's occupation,114,1,0.0
+Father's occupation,131,1,0.0
+Father's occupation,132,1,0.0
+Father's occupation,134,1,0.0
+Father's occupation,135,3,0.0
+Father's occupation,141,1,0.0
+Father's occupation,122,2,0.0
+Father's occupation,123,3,0.0
+Father's occupation,124,1,0.0
+Father's occupation,151,2,0.0
+Father's occupation,144,8,0.0
+Father's occupation,143,1,0.0
+Father's occupation,153,1,0.0
+Father's occupation,163,5,0.0
+Father's occupation,171,8,0.0
+Father's occupation,154,1,0.0
+Father's occupation,161,1,0.0
+Father's occupation,174,1,0.0
+Father's occupation,172,2,0.0
+Father's occupation,175,4,0.0
+Father's occupation,181,3,0.0
+Father's occupation,183,3,0.0
+Father's occupation,182,2,0.0
+Father's occupation,192,6,0.0
+Father's occupation,195,1,0.0

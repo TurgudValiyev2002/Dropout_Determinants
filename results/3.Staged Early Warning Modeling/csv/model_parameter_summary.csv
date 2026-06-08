@@ -1,0 +1,8 @@
+model_key,model,supports_proba,supports_shap,default_params,notes
+decision_tree,Decision Tree,True,True,"{""random_state"": 123, ""class_weight"": ""balanced"", ""max_depth"": 8, ""min_samples_leaf"": 10}",Interpretable nonlinear baseline.
+random_forest,Random Forest,True,True,"{""n_estimators"": 500, ""random_state"": 123, ""class_weight"": ""balanced"", ""n_jobs"": -1, ""min_samples_leaf"": 2, ""max_features"": ""sqrt""}",Bagging ensemble benchmark for nonlinear interactions.
+xgboost,XGBoost,True,True,"{""n_estimators"": 400, ""learning_rate"": 0.05, ""max_depth"": 4, ""subsample"": 0.9, ""colsample_bytree"": 0.9, ""random_state"": 123, ""eval_metric"": ""mlogloss"", ""tree_method"": ""hist"", ""n_jobs"": -1}",Gradient boosting benchmark and main SHAP candidate.
+lightgbm,LightGBM,True,True,"{""n_estimators"": 500, ""learning_rate"": 0.05, ""num_leaves"": 31, ""subsample"": 0.9, ""colsample_bytree"": 0.9, ""random_state"": 123, ""class_weight"": ""balanced"", ""n_jobs"": -1, ""verbose"": -1}",Efficient gradient boosting benchmark.
+catboost,CatBoost,True,True,"{""iterations"": 500, ""learning_rate"": 0.05, ""depth"": 6, ""loss_function"": ""MultiClass"", ""random_seed"": 123, ""verbose"": false}",Boosting benchmark; evaluated on the same encoded/scaled matrix for fair comparison.
+rbf_svm,RBF SVM,True,False,"{""C"": 1.0, ""gamma"": ""scale"", ""kernel"": ""rbf"", ""probability"": true, ""class_weight"": ""balanced"", ""random_state"": 123}",Nonlinear margin-based benchmark.
+mlp,Neural Network / MLP,True,False,"{""hidden_layer_sizes"": [64, 32], ""activation"": ""relu"", ""alpha"": 0.0001, ""learning_rate_init"": 0.001, ""max_iter"": 500, ""early_stopping"": true, ""random_state"": 123}",Neural-network benchmark.

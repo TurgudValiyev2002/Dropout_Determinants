@@ -1,0 +1,6 @@
+{
+  "experiments": 5,
+  "permutation_repeats": 10,
+  "top_n_for_paper": 10,
+  "dropout_class": "Dropout"
+}

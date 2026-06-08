@@ -1,0 +1,4 @@
+Stage,Best model,Validation Macro-F1,Validation Balanced Acc.,Validation Log-loss,Test Macro-F1,Test Balanced Acc.,Test Log-loss
+A_pre_enrollment,LightGBM,0.583,0.7,0.849,0.571,0.689,0.849
+B_first_semester,LightGBM,0.679,0.772,0.659,0.68,0.773,0.647
+C_second_semester,LightGBM,0.712,0.797,0.595,0.698,0.784,0.597

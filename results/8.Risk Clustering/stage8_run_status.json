@@ -1,0 +1,8 @@
+{
+  "rows_clustered": 4424,
+  "selected_k": 3,
+  "risk_features": 20,
+  "encoded_features": 59,
+  "highest_dropout_cluster": 0,
+  "highest_dropout_rate": 0.8363028953229399
+}

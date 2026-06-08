@@ -1,0 +1,4 @@
+stage,raw_features,encoded_features,train_rows,validation_rows,test_rows
+A_pre_enrollment,24,232,3097,885,442
+B_first_semester,30,238,3097,885,442
+C_second_semester,36,244,3097,885,442

@@ -1,0 +1,13 @@
+{
+  "unpaid_tuition_dropout_rate": 0.865530303030303,
+  "paid_tuition_dropout_rate": 0.24743326488706366,
+  "debtor_dropout_rate": 0.6202783300198808,
+  "non_debtor_dropout_rate": 0.28283601122162716,
+  "no_scholarship_dropout_rate": 0.38706766917293234,
+  "scholarship_dropout_rate": 0.12192902638762511,
+  "target_counts": {
+    "Graduate": 2209,
+    "Dropout": 1421,
+    "Enrolled": 794
+  }
+}

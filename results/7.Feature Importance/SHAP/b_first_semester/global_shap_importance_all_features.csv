@@ -1,0 +1,31 @@
+experiment,experiment_key,feature,global_mean_abs_shap,dropout_mean_abs_shap,encoded_columns
+Stage B tuned,B_first_semester,Curricular units 1st sem (approved),0.6572316416873064,0.6917035295815686,1
+Stage B tuned,B_first_semester,Tuition fees up to date,0.2252772261537527,0.3590785035101183,2
+Stage B tuned,B_first_semester,Course,0.20890347443674295,0.16754963493299752,17
+Stage B tuned,B_first_semester,Curricular units 1st sem (grade),0.20048356734037226,0.17294308728679436,1
+Stage B tuned,B_first_semester,Curricular units 1st sem (evaluations),0.1520650247776432,0.037610485378449444,1
+Stage B tuned,B_first_semester,Father's occupation,0.12068759286647651,0.1156223991391581,41
+Stage B tuned,B_first_semester,Scholarship holder,0.11453594117437405,0.08718211486714791,2
+Stage B tuned,B_first_semester,Curricular units 1st sem (enrolled),0.11264993980298545,0.1151659606512595,1
+Stage B tuned,B_first_semester,Age at enrollment,0.10939750797245888,0.17124324391182133,1
+Stage B tuned,B_first_semester,Mother's occupation,0.09475208845604402,0.059964504164570505,32
+Stage B tuned,B_first_semester,Unemployment rate,0.0910197246787029,0.11170108083178422,1
+Stage B tuned,B_first_semester,Application mode,0.08915868424612418,0.08370993882239039,16
+Stage B tuned,B_first_semester,Admission grade,0.08341663951255741,0.0827425005008742,1
+Stage B tuned,B_first_semester,Application order,0.06913337630099468,0.06254126598093662,6
+Stage B tuned,B_first_semester,Mother's qualification,0.06718811990801159,0.06472529414540079,28
+Stage B tuned,B_first_semester,Previous qualification (grade),0.05842838715506157,0.050291749251073825,1
+Stage B tuned,B_first_semester,Gender,0.058144206106977736,0.0937285493129788,2
+Stage B tuned,B_first_semester,Father's qualification,0.04386592287121284,0.029231828344030212,29
+Stage B tuned,B_first_semester,Displaced,0.041257642714281055,0.0833189191430924,2
+Stage B tuned,B_first_semester,GDP,0.037183006515116336,0.05049297448723905,1
+Stage B tuned,B_first_semester,Debtor,0.03516936869511719,0.045771629166246726,2
+Stage B tuned,B_first_semester,Previous qualification,0.03497375897408901,0.013164178528954225,16
+Stage B tuned,B_first_semester,Curricular units 1st sem (credited),0.02722579009394656,0.05803369899542831,1
+Stage B tuned,B_first_semester,Inflation rate,0.0218562426403527,0.023880468155131805,1
+Stage B tuned,B_first_semester,Marital status,0.011985867089049931,0.007017549407427666,6
+Stage B tuned,B_first_semester,Daytime/evening attendance,0.005823293215570005,0.0038284792882811803,2
+Stage B tuned,B_first_semester,Curricular units 1st sem (without evaluations),0.0039093277830345025,0.003955336209021439,1
+Stage B tuned,B_first_semester,Nacionality,0.002949388987951601,0.0,19
+Stage B tuned,B_first_semester,Educational special needs,0.0001262526412583048,0.0,2
+Stage B tuned,B_first_semester,International,0.0,0.0,2

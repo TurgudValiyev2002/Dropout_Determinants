@@ -1,0 +1,7 @@
+Split,DropoutLabel,count,percent_within_split
+test,Dropout,142,0.3212669683257919
+test,NonDropout,300,0.6787330316742082
+train,Dropout,995,0.3212786567646109
+train,NonDropout,2102,0.6787213432353891
+validation,Dropout,284,0.32090395480225986
+validation,NonDropout,601,0.6790960451977401

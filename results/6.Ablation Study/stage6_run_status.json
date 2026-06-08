@@ -1,0 +1,8 @@
+{
+  "ablation_blocks": 5,
+  "baseline_rows": 105,
+  "tuned_rows": 105,
+  "tuning_candidates": 750,
+  "baseline_failures": 0,
+  "tuning_failures": 0
+}

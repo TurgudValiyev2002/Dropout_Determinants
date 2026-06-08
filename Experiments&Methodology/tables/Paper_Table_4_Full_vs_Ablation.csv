@@ -1,0 +1,7 @@
+Feature set,Best model,Raw features,Encoded features,Validation Macro-F1,Test Macro-F1,Test Balanced Acc.,Test Log-loss
+Full feature,LightGBM,36,244,0.709,0.702,0.789,0.59
+2.Academic + demographic-financial,LightGBM,24,54,0.702,0.698,0.785,0.621
+3.Academic + parental education,LightGBM,18,144,0.665,0.67,0.765,0.642
+4.Academic + macroeconomic,Random Forest,17,17,0.673,0.658,0.757,0.656
+5.Academic + course-application,LightGBM,17,53,0.672,0.655,0.754,0.642
+1.Academic only,Random Forest,14,14,0.665,0.653,0.752,0.664

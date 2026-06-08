@@ -1,0 +1,11 @@
+left_experiment,right_experiment,overlap_count_top10_dropout_shap,jaccard_top10_dropout_shap,overlapping_features
+Stage A tuned,Stage B tuned,7,0.5384615384615384,Age at enrollment; Course; Father's occupation; Gender; Scholarship holder; Tuition fees up to date; Unemployment rate
+Stage A tuned,Stage C tuned,5,0.3333333333333333,Age at enrollment; Course; Father's occupation; Tuition fees up to date; Unemployment rate
+Stage A tuned,Full feature tuned,5,0.3333333333333333,Age at enrollment; Course; Father's occupation; Tuition fees up to date; Unemployment rate
+Stage A tuned,Academic + demographic-financial tuned,2,0.1111111111111111,Age at enrollment; Tuition fees up to date
+Stage B tuned,Stage C tuned,6,0.42857142857142855,Age at enrollment; Course; Curricular units 1st sem (approved); Father's occupation; Tuition fees up to date; Unemployment rate
+Stage B tuned,Full feature tuned,6,0.42857142857142855,Age at enrollment; Course; Curricular units 1st sem (approved); Father's occupation; Tuition fees up to date; Unemployment rate
+Stage B tuned,Academic + demographic-financial tuned,3,0.17647058823529413,Age at enrollment; Curricular units 1st sem (approved); Tuition fees up to date
+Stage C tuned,Full feature tuned,9,0.8181818181818182,Age at enrollment; Course; Curricular units 1st sem (approved); Curricular units 2nd sem (approved); Curricular units 2nd sem (enrolled); Curricular units 2nd sem (grade); Father's occupation; Tuition fees up to date; Unemployment rate
+Stage C tuned,Academic + demographic-financial tuned,6,0.42857142857142855,Age at enrollment; Curricular units 1st sem (approved); Curricular units 2nd sem (approved); Curricular units 2nd sem (enrolled); Curricular units 2nd sem (grade); Tuition fees up to date
+Full feature tuned,Academic + demographic-financial tuned,7,0.5384615384615384,Age at enrollment; Curricular units 1st sem (approved); Curricular units 2nd sem (approved); Curricular units 2nd sem (enrolled); Curricular units 2nd sem (evaluations); Curricular units 2nd sem (grade); Tuition fees up to date

@@ -1,0 +1,31 @@
+Cluster,feature,standardized_difference,max_abs_standardized_difference,encoded_columns
+0,Curricular units 2nd sem (grade),-1.849316,1.849316,1
+0,Curricular units 1st sem (grade),-1.68496,1.68496,1
+0,Curricular units 2nd sem (approved),-1.4460317,1.4460317,1
+0,Predicted dropout probability,1.4331235,1.4331235,1
+0,Curricular units 1st sem (approved),-1.3600031,1.3600031,1
+0,Curricular units 2nd sem (evaluations),-1.0217105,1.0217105,1
+0,Curricular units 1st sem (evaluations),-0.8166858,0.8166858,1
+0,Curricular units 2nd sem (enrolled),-0.77974594,0.77974594,1
+0,Curricular units 1st sem (enrolled),-0.72923833,0.72923833,1
+0,Course,0.021098262,0.70617485,17
+1,Curricular units 2nd sem (grade),0.47118115,0.47118115,1
+1,Curricular units 1st sem (grade),0.43020532,0.43020532,1
+1,Predicted dropout probability,-0.37827864,0.37827864,1
+1,Curricular units 2nd sem (approved),0.24499807,0.24499807,1
+1,Course,-0.007839667,0.22316146,17
+1,Curricular units 1st sem (approved),0.19068813,0.19068813,1
+1,Age at enrollment,-0.15774396,0.15774396,1
+1,Tuition fees up to date,-7.450581e-09,0.15267196,2
+1,Curricular units 2nd sem (evaluations),0.13973583,0.13973583,1
+1,Scholarship holder,-1.4901161e-08,0.11852625,2
+2,Curricular units 1st sem (enrolled),2.8875093,2.8875093,1
+2,Curricular units 2nd sem (enrolled),2.513894,2.513894,1
+2,Curricular units 1st sem (approved),2.2858055,2.2858055,1
+2,Curricular units 1st sem (evaluations),2.105082,2.105082,1
+2,Curricular units 2nd sem (approved),1.9041008,1.9041008,1
+2,Curricular units 2nd sem (evaluations),1.7611051,1.7611051,1
+2,Application mode,0.16869937,0.9446708,18
+2,Age at enrollment,0.7025581,0.7025581,1
+2,Course,0.025352752,0.58450097,17
+2,Curricular units 1st sem (without evaluations),0.47479743,0.47479743,1

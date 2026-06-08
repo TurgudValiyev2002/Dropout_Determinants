@@ -1,0 +1,217 @@
+feature_set,feature
+A_pre_enrollment,Marital status
+A_pre_enrollment,Application mode
+A_pre_enrollment,Application order
+A_pre_enrollment,Course
+A_pre_enrollment,Daytime/evening attendance
+A_pre_enrollment,Previous qualification
+A_pre_enrollment,Previous qualification (grade)
+A_pre_enrollment,Nacionality
+A_pre_enrollment,Mother's qualification
+A_pre_enrollment,Father's qualification
+A_pre_enrollment,Mother's occupation
+A_pre_enrollment,Father's occupation
+A_pre_enrollment,Admission grade
+A_pre_enrollment,Displaced
+A_pre_enrollment,Educational special needs
+A_pre_enrollment,Debtor
+A_pre_enrollment,Tuition fees up to date
+A_pre_enrollment,Gender
+A_pre_enrollment,Scholarship holder
+A_pre_enrollment,Age at enrollment
+A_pre_enrollment,International
+A_pre_enrollment,Unemployment rate
+A_pre_enrollment,Inflation rate
+A_pre_enrollment,GDP
+B_first_semester,Marital status
+B_first_semester,Application mode
+B_first_semester,Application order
+B_first_semester,Course
+B_first_semester,Daytime/evening attendance
+B_first_semester,Previous qualification
+B_first_semester,Previous qualification (grade)
+B_first_semester,Nacionality
+B_first_semester,Mother's qualification
+B_first_semester,Father's qualification
+B_first_semester,Mother's occupation
+B_first_semester,Father's occupation
+B_first_semester,Admission grade
+B_first_semester,Displaced
+B_first_semester,Educational special needs
+B_first_semester,Debtor
+B_first_semester,Tuition fees up to date
+B_first_semester,Gender
+B_first_semester,Scholarship holder
+B_first_semester,Age at enrollment
+B_first_semester,International
+B_first_semester,Unemployment rate
+B_first_semester,Inflation rate
+B_first_semester,GDP
+B_first_semester,Curricular units 1st sem (credited)
+B_first_semester,Curricular units 1st sem (enrolled)
+B_first_semester,Curricular units 1st sem (evaluations)
+B_first_semester,Curricular units 1st sem (approved)
+B_first_semester,Curricular units 1st sem (grade)
+B_first_semester,Curricular units 1st sem (without evaluations)
+C_second_semester,Marital status
+C_second_semester,Application mode
+C_second_semester,Application order
+C_second_semester,Course
+C_second_semester,Daytime/evening attendance
+C_second_semester,Previous qualification
+C_second_semester,Previous qualification (grade)
+C_second_semester,Nacionality
+C_second_semester,Mother's qualification
+C_second_semester,Father's qualification
+C_second_semester,Mother's occupation
+C_second_semester,Father's occupation
+C_second_semester,Admission grade
+C_second_semester,Displaced
+C_second_semester,Educational special needs
+C_second_semester,Debtor
+C_second_semester,Tuition fees up to date
+C_second_semester,Gender
+C_second_semester,Scholarship holder
+C_second_semester,Age at enrollment
+C_second_semester,International
+C_second_semester,Unemployment rate
+C_second_semester,Inflation rate
+C_second_semester,GDP
+C_second_semester,Curricular units 1st sem (credited)
+C_second_semester,Curricular units 1st sem (enrolled)
+C_second_semester,Curricular units 1st sem (evaluations)
+C_second_semester,Curricular units 1st sem (approved)
+C_second_semester,Curricular units 1st sem (grade)
+C_second_semester,Curricular units 1st sem (without evaluations)
+C_second_semester,Curricular units 2nd sem (credited)
+C_second_semester,Curricular units 2nd sem (enrolled)
+C_second_semester,Curricular units 2nd sem (evaluations)
+C_second_semester,Curricular units 2nd sem (approved)
+C_second_semester,Curricular units 2nd sem (grade)
+C_second_semester,Curricular units 2nd sem (without evaluations)
+academic_only,Previous qualification (grade)
+academic_only,Admission grade
+academic_only,Curricular units 1st sem (credited)
+academic_only,Curricular units 1st sem (enrolled)
+academic_only,Curricular units 1st sem (evaluations)
+academic_only,Curricular units 1st sem (approved)
+academic_only,Curricular units 1st sem (grade)
+academic_only,Curricular units 1st sem (without evaluations)
+academic_only,Curricular units 2nd sem (credited)
+academic_only,Curricular units 2nd sem (enrolled)
+academic_only,Curricular units 2nd sem (evaluations)
+academic_only,Curricular units 2nd sem (approved)
+academic_only,Curricular units 2nd sem (grade)
+academic_only,Curricular units 2nd sem (without evaluations)
+academic_plus_financial_demographic,Admission grade
+academic_plus_financial_demographic,Age at enrollment
+academic_plus_financial_demographic,Curricular units 1st sem (approved)
+academic_plus_financial_demographic,Curricular units 1st sem (credited)
+academic_plus_financial_demographic,Curricular units 1st sem (enrolled)
+academic_plus_financial_demographic,Curricular units 1st sem (evaluations)
+academic_plus_financial_demographic,Curricular units 1st sem (grade)
+academic_plus_financial_demographic,Curricular units 1st sem (without evaluations)
+academic_plus_financial_demographic,Curricular units 2nd sem (approved)
+academic_plus_financial_demographic,Curricular units 2nd sem (credited)
+academic_plus_financial_demographic,Curricular units 2nd sem (enrolled)
+academic_plus_financial_demographic,Curricular units 2nd sem (evaluations)
+academic_plus_financial_demographic,Curricular units 2nd sem (grade)
+academic_plus_financial_demographic,Curricular units 2nd sem (without evaluations)
+academic_plus_financial_demographic,Debtor
+academic_plus_financial_demographic,Displaced
+academic_plus_financial_demographic,Educational special needs
+academic_plus_financial_demographic,Gender
+academic_plus_financial_demographic,International
+academic_plus_financial_demographic,Marital status
+academic_plus_financial_demographic,Nacionality
+academic_plus_financial_demographic,Previous qualification (grade)
+academic_plus_financial_demographic,Scholarship holder
+academic_plus_financial_demographic,Tuition fees up to date
+academic_plus_parental,Admission grade
+academic_plus_parental,Curricular units 1st sem (approved)
+academic_plus_parental,Curricular units 1st sem (credited)
+academic_plus_parental,Curricular units 1st sem (enrolled)
+academic_plus_parental,Curricular units 1st sem (evaluations)
+academic_plus_parental,Curricular units 1st sem (grade)
+academic_plus_parental,Curricular units 1st sem (without evaluations)
+academic_plus_parental,Curricular units 2nd sem (approved)
+academic_plus_parental,Curricular units 2nd sem (credited)
+academic_plus_parental,Curricular units 2nd sem (enrolled)
+academic_plus_parental,Curricular units 2nd sem (evaluations)
+academic_plus_parental,Curricular units 2nd sem (grade)
+academic_plus_parental,Curricular units 2nd sem (without evaluations)
+academic_plus_parental,Father's occupation
+academic_plus_parental,Father's qualification
+academic_plus_parental,Mother's occupation
+academic_plus_parental,Mother's qualification
+academic_plus_parental,Previous qualification (grade)
+academic_plus_macro,Admission grade
+academic_plus_macro,Curricular units 1st sem (approved)
+academic_plus_macro,Curricular units 1st sem (credited)
+academic_plus_macro,Curricular units 1st sem (enrolled)
+academic_plus_macro,Curricular units 1st sem (evaluations)
+academic_plus_macro,Curricular units 1st sem (grade)
+academic_plus_macro,Curricular units 1st sem (without evaluations)
+academic_plus_macro,Curricular units 2nd sem (approved)
+academic_plus_macro,Curricular units 2nd sem (credited)
+academic_plus_macro,Curricular units 2nd sem (enrolled)
+academic_plus_macro,Curricular units 2nd sem (evaluations)
+academic_plus_macro,Curricular units 2nd sem (grade)
+academic_plus_macro,Curricular units 2nd sem (without evaluations)
+academic_plus_macro,GDP
+academic_plus_macro,Inflation rate
+academic_plus_macro,Previous qualification (grade)
+academic_plus_macro,Unemployment rate
+academic_plus_course_application,Admission grade
+academic_plus_course_application,Application mode
+academic_plus_course_application,Application order
+academic_plus_course_application,Course
+academic_plus_course_application,Curricular units 1st sem (approved)
+academic_plus_course_application,Curricular units 1st sem (credited)
+academic_plus_course_application,Curricular units 1st sem (enrolled)
+academic_plus_course_application,Curricular units 1st sem (evaluations)
+academic_plus_course_application,Curricular units 1st sem (grade)
+academic_plus_course_application,Curricular units 1st sem (without evaluations)
+academic_plus_course_application,Curricular units 2nd sem (approved)
+academic_plus_course_application,Curricular units 2nd sem (credited)
+academic_plus_course_application,Curricular units 2nd sem (enrolled)
+academic_plus_course_application,Curricular units 2nd sem (evaluations)
+academic_plus_course_application,Curricular units 2nd sem (grade)
+academic_plus_course_application,Curricular units 2nd sem (without evaluations)
+academic_plus_course_application,Previous qualification (grade)
+full,Marital status
+full,Application mode
+full,Application order
+full,Course
+full,Daytime/evening attendance
+full,Previous qualification
+full,Previous qualification (grade)
+full,Nacionality
+full,Mother's qualification
+full,Father's qualification
+full,Mother's occupation
+full,Father's occupation
+full,Admission grade
+full,Displaced
+full,Educational special needs
+full,Debtor
+full,Tuition fees up to date
+full,Gender
+full,Scholarship holder
+full,Age at enrollment
+full,International
+full,Unemployment rate
+full,Inflation rate
+full,GDP
+full,Curricular units 1st sem (credited)
+full,Curricular units 1st sem (enrolled)
+full,Curricular units 1st sem (evaluations)
+full,Curricular units 1st sem (approved)
+full,Curricular units 1st sem (grade)
+full,Curricular units 1st sem (without evaluations)
+full,Curricular units 2nd sem (credited)
+full,Curricular units 2nd sem (enrolled)
+full,Curricular units 2nd sem (evaluations)
+full,Curricular units 2nd sem (approved)
+full,Curricular units 2nd sem (grade)
+full,Curricular units 2nd sem (without evaluations)

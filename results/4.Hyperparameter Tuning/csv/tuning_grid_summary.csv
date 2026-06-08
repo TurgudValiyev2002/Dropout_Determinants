@@ -1,0 +1,7 @@
+model_key,model,n_candidates
+random_forest,Random Forest,8
+xgboost,XGBoost,8
+lightgbm,LightGBM,16
+catboost,CatBoost,8
+rbf_svm,RBF SVM,6
+mlp,Neural Network / MLP,12

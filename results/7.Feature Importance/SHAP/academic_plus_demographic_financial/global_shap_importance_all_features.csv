@@ -1,0 +1,25 @@
+experiment,experiment_key,feature,global_mean_abs_shap,dropout_mean_abs_shap,encoded_columns
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (approved),0.6885754744138108,0.7985922465262786,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (approved),0.2693072554718909,0.1089649184614538,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Tuition fees up to date,0.2057101800517206,0.33535153621210323,2
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (evaluations),0.1497057573531656,0.08158192646502281,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (grade),0.14830132752443842,0.12176982932593104,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (enrolled),0.12436232789839276,0.18289645662170473,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Admission grade,0.12161830718634263,0.1127452722891141,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Age at enrollment,0.12124719155131121,0.185971000252314,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (evaluations),0.11809442669829175,0.09486311945686655,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Scholarship holder,0.1063126768672673,0.06830980176294818,2
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (enrolled),0.09652824794468355,0.06417736275407056,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (grade),0.0820971728447704,0.06858748812057051,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Previous qualification (grade),0.06314195137460377,0.06901796799338879,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Displaced,0.054751807576713614,0.12839652745071875,2
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Gender,0.042743985484152404,0.0231434824022389,2
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Debtor,0.02974008525954285,0.050951427305803015,2
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (credited),0.022147910845523658,0.03745099714125582,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Marital status,0.011361096473063135,0.016968037340561785,6
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (credited),0.011155990325270851,0.012714564213405003,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (without evaluations),0.006803224403691546,0.008392715330724325,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (without evaluations),0.004872217292211648,0.003882671259666598,1
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Nacionality,0.004325692151687071,0.0037853255476280345,19
+Academic + demographic-financial tuned,academic_plus_demographic_financial,International,0.00026477937298650825,0.0,2
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Educational special needs,0.0,0.0,2

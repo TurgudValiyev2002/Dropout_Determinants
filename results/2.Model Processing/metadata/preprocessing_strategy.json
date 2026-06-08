@@ -1,0 +1,60 @@
+{
+  "main_fair_comparison": {
+    "models": [
+      "Decision Tree",
+      "Random Forest",
+      "XGBoost",
+      "LightGBM",
+      "CatBoost",
+      "RBF SVM",
+      "Neural Network / MLP"
+    ],
+    "numeric_features": [
+      "Admission grade",
+      "Age at enrollment",
+      "Curricular units 1st sem (approved)",
+      "Curricular units 1st sem (credited)",
+      "Curricular units 1st sem (enrolled)",
+      "Curricular units 1st sem (evaluations)",
+      "Curricular units 1st sem (grade)",
+      "Curricular units 1st sem (without evaluations)",
+      "Curricular units 2nd sem (approved)",
+      "Curricular units 2nd sem (credited)",
+      "Curricular units 2nd sem (enrolled)",
+      "Curricular units 2nd sem (evaluations)",
+      "Curricular units 2nd sem (grade)",
+      "Curricular units 2nd sem (without evaluations)",
+      "GDP",
+      "Inflation rate",
+      "Previous qualification (grade)",
+      "Unemployment rate"
+    ],
+    "categorical_features": [
+      "Marital status",
+      "Application mode",
+      "Application order",
+      "Course",
+      "Daytime/evening attendance",
+      "Previous qualification",
+      "Nacionality",
+      "Mother's qualification",
+      "Father's qualification",
+      "Mother's occupation",
+      "Father's occupation",
+      "Displaced",
+      "Educational special needs",
+      "Debtor",
+      "Tuition fees up to date",
+      "Gender",
+      "Scholarship holder",
+      "International"
+    ],
+    "encoding": "one-hot encoding for categorical features",
+    "scaling": "standardize numeric features using training-set parameters only",
+    "reason": "all models receive the same transformed input matrix for fair comparison"
+  },
+  "catboost_sensitivity": {
+    "recommended_encoding": "native categorical handling can be tested separately",
+    "reason": "do not mix native CatBoost input with encoded/scaled input in the main fair-comparison table"
+  }
+}

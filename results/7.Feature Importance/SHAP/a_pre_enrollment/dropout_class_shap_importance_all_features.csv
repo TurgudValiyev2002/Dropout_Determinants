@@ -1,0 +1,25 @@
+experiment,experiment_key,feature,global_mean_abs_shap,dropout_mean_abs_shap,encoded_columns
+Stage A tuned,A_pre_enrollment,Tuition fees up to date,0.32073443943789365,0.4064439092218945,2
+Stage A tuned,A_pre_enrollment,Course,0.3420703481900857,0.2762146887267434,17
+Stage A tuned,A_pre_enrollment,Age at enrollment,0.15745489288488781,0.2651024843163842,1
+Stage A tuned,A_pre_enrollment,Scholarship holder,0.1930250559301098,0.2048046321994484,2
+Stage A tuned,A_pre_enrollment,Application mode,0.1362129349916337,0.17047591239158882,16
+Stage A tuned,A_pre_enrollment,Mother's qualification,0.09018854611709325,0.1293851411336862,28
+Stage A tuned,A_pre_enrollment,Gender,0.09790821704763521,0.12162838776025862,2
+Stage A tuned,A_pre_enrollment,Father's occupation,0.14506270234115654,0.11457600531882203,41
+Stage A tuned,A_pre_enrollment,Unemployment rate,0.08843903355062917,0.11243089188591182,1
+Stage A tuned,A_pre_enrollment,Mother's occupation,0.11270901178469672,0.09854874217828553,32
+Stage A tuned,A_pre_enrollment,Application order,0.09191254440304009,0.09587777110326351,6
+Stage A tuned,A_pre_enrollment,Admission grade,0.13238733282800624,0.08422679924351693,1
+Stage A tuned,A_pre_enrollment,Previous qualification (grade),0.07754892505427144,0.07021763554730721,1
+Stage A tuned,A_pre_enrollment,Father's qualification,0.05309788752400329,0.05656484362439289,29
+Stage A tuned,A_pre_enrollment,GDP,0.07481190297024608,0.05596905014904304,1
+Stage A tuned,A_pre_enrollment,Inflation rate,0.04066458482319815,0.05368542390072398,1
+Stage A tuned,A_pre_enrollment,Displaced,0.029189059794155522,0.046534516042027754,2
+Stage A tuned,A_pre_enrollment,Debtor,0.04765137950992912,0.04411505630715118,2
+Stage A tuned,A_pre_enrollment,Previous qualification,0.05597726280535499,0.0249101234172953,16
+Stage A tuned,A_pre_enrollment,Marital status,0.028102739419016205,0.013685817405348943,6
+Stage A tuned,A_pre_enrollment,Daytime/evening attendance,0.0028760494459403505,0.006026668082965153,2
+Stage A tuned,A_pre_enrollment,Nacionality,0.0048772236799669005,0.002103209183322123,19
+Stage A tuned,A_pre_enrollment,Educational special needs,0.0007908379550535707,0.0005833609856980554,2
+Stage A tuned,A_pre_enrollment,International,0.0015119903541254928,0.0,2

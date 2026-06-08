@@ -1,0 +1,37 @@
+experiment,experiment_key,feature,mean_abs_shap
+Stage C tuned,C_second_semester,Curricular units 2nd sem (approved),0.7695256838403061
+Stage C tuned,C_second_semester,Tuition fees up to date,0.37413536653245705
+Stage C tuned,C_second_semester,Age at enrollment,0.1763430484369816
+Stage C tuned,C_second_semester,Curricular units 2nd sem (enrolled),0.1264041420165125
+Stage C tuned,C_second_semester,Curricular units 2nd sem (grade),0.12561617001093014
+Stage C tuned,C_second_semester,Curricular units 1st sem (approved),0.11312784850693611
+Stage C tuned,C_second_semester,Course,0.10815677915729836
+Stage C tuned,C_second_semester,Unemployment rate,0.10570875599681297
+Stage C tuned,C_second_semester,Displaced,0.10084089994154351
+Stage C tuned,C_second_semester,Application order,0.09899216222567764
+Stage C tuned,C_second_semester,Admission grade,0.0972646039196555
+Stage C tuned,C_second_semester,Curricular units 2nd sem (evaluations),0.08629253501836573
+Stage C tuned,C_second_semester,Father's occupation,0.07177788942134036
+Stage C tuned,C_second_semester,Curricular units 1st sem (enrolled),0.055967365949287556
+Stage C tuned,C_second_semester,Previous qualification (grade),0.05433884077115467
+Stage C tuned,C_second_semester,GDP,0.05338452883334123
+Stage C tuned,C_second_semester,Debtor,0.051361047190139855
+Stage C tuned,C_second_semester,Curricular units 1st sem (grade),0.051164111730884476
+Stage C tuned,C_second_semester,Scholarship holder,0.04999343182423021
+Stage C tuned,C_second_semester,Mother's qualification,0.04799567463275872
+Stage C tuned,C_second_semester,Curricular units 1st sem (evaluations),0.045341627354228115
+Stage C tuned,C_second_semester,Gender,0.043081067337978333
+Stage C tuned,C_second_semester,Application mode,0.03995649064276697
+Stage C tuned,C_second_semester,Mother's occupation,0.03706973403597409
+Stage C tuned,C_second_semester,Curricular units 2nd sem (credited),0.03666494017359056
+Stage C tuned,C_second_semester,Inflation rate,0.03223637660035929
+Stage C tuned,C_second_semester,Curricular units 1st sem (credited),0.017126921672080554
+Stage C tuned,C_second_semester,Father's qualification,0.01183437987917976
+Stage C tuned,C_second_semester,Curricular units 2nd sem (without evaluations),0.006299059537302613
+Stage C tuned,C_second_semester,Previous qualification,0.006283833027021038
+Stage C tuned,C_second_semester,Marital status,0.006119110055692008
+Stage C tuned,C_second_semester,Daytime/evening attendance,0.0041332565661706564
+Stage C tuned,C_second_semester,Nacionality,0.0013808679311610899
+Stage C tuned,C_second_semester,Curricular units 1st sem (without evaluations),0.000895585295507506
+Stage C tuned,C_second_semester,Educational special needs,0.0
+Stage C tuned,C_second_semester,International,0.0

@@ -1,0 +1,37 @@
+feature,type_for_modeling,dtype_in_csv,unique_count,used_in_stage_A,used_in_stage_B,used_in_stage_C
+Admission grade,numeric,float64,620,True,True,True
+Age at enrollment,numeric,int64,46,True,True,True
+Application mode,categorical,int64,18,True,True,True
+Application order,categorical,int64,8,True,True,True
+Course,categorical,int64,17,True,True,True
+Curricular units 1st sem (approved),numeric,int64,23,False,True,True
+Curricular units 1st sem (credited),numeric,int64,21,False,True,True
+Curricular units 1st sem (enrolled),numeric,int64,23,False,True,True
+Curricular units 1st sem (evaluations),numeric,int64,35,False,True,True
+Curricular units 1st sem (grade),numeric,float64,805,False,True,True
+Curricular units 1st sem (without evaluations),numeric,int64,11,False,True,True
+Curricular units 2nd sem (approved),numeric,int64,20,False,False,True
+Curricular units 2nd sem (credited),numeric,int64,19,False,False,True
+Curricular units 2nd sem (enrolled),numeric,int64,22,False,False,True
+Curricular units 2nd sem (evaluations),numeric,int64,30,False,False,True
+Curricular units 2nd sem (grade),numeric,float64,786,False,False,True
+Curricular units 2nd sem (without evaluations),numeric,int64,10,False,False,True
+Daytime/evening attendance,categorical,int64,2,True,True,True
+Debtor,categorical,int64,2,True,True,True
+Displaced,categorical,int64,2,True,True,True
+Educational special needs,categorical,int64,2,True,True,True
+Father's occupation,categorical,int64,46,True,True,True
+Father's qualification,categorical,int64,34,True,True,True
+GDP,numeric,float64,10,True,True,True
+Gender,categorical,int64,2,True,True,True
+Inflation rate,numeric,float64,9,True,True,True
+International,categorical,int64,2,True,True,True
+Marital status,categorical,int64,6,True,True,True
+Mother's occupation,categorical,int64,32,True,True,True
+Mother's qualification,categorical,int64,29,True,True,True
+Nacionality,categorical,int64,21,True,True,True
+Previous qualification,categorical,int64,17,True,True,True
+Previous qualification (grade),numeric,float64,101,True,True,True
+Scholarship holder,categorical,int64,2,True,True,True
+Tuition fees up to date,categorical,int64,2,True,True,True
+Unemployment rate,numeric,float64,10,True,True,True

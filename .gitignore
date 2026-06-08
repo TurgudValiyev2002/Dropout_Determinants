@@ -1,0 +1,19 @@
+# Local caches and temporary runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+~$*.docx

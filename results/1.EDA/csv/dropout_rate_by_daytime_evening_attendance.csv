@@ -1,0 +1,3 @@
+variable,category,n,dropout_rate
+Daytime/evening attendance,0,483,0.42857142857142855
+Daytime/evening attendance,1,3941,0.30804364374524235

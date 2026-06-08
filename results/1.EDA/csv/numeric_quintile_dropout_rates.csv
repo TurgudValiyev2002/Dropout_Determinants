@@ -1,0 +1,36 @@
+variable,quintile,n,min_value,max_value,dropout_rate
+Age at enrollment,1,885,17.0,18.0,0.1864406779661017
+Age at enrollment,2,885,18.0,19.0,0.2192090395480226
+Age at enrollment,3,884,19.0,21.0,0.2420814479638009
+Age at enrollment,4,885,21.0,27.0,0.3954802259887006
+Age at enrollment,5,885,27.0,70.0,0.5627118644067797
+Admission grade,1,885,95.0,115.8,0.42259887005649716
+Admission grade,2,885,115.8,122.3,0.3288135593220339
+Admission grade,3,884,122.3,129.4,0.27714932126696834
+Admission grade,4,885,129.5,138.3,0.2847457627118644
+Admission grade,5,885,138.3,190.0,0.29265536723163843
+Previous qualification (grade),1,885,95.0,122.0,0.384180790960452
+Previous qualification (grade),2,885,122.0,130.0,0.28361581920903955
+Previous qualification (grade),3,884,130.0,133.1,0.4411764705882353
+Previous qualification (grade),4,885,133.1,141.0,0.2711864406779661
+Previous qualification (grade),5,885,141.0,190.0,0.22598870056497175
+Curricular units 1st sem (approved),1,885,0.0,2.0,0.7785310734463277
+Curricular units 1st sem (approved),2,885,2.0,5.0,0.4485875706214689
+Curricular units 1st sem (approved),3,884,5.0,6.0,0.16855203619909503
+Curricular units 1st sem (approved),4,885,6.0,6.0,0.10508474576271186
+Curricular units 1st sem (approved),5,885,6.0,26.0,0.10508474576271186
+Curricular units 1st sem (grade),1,885,0.0,10.5,0.7502824858757062
+Curricular units 1st sem (grade),2,885,10.5,11.857142857142858,0.32994350282485874
+Curricular units 1st sem (grade),3,884,11.857142857142858,12.666666666666666,0.251131221719457
+Curricular units 1st sem (grade),4,885,12.666666666666666,13.625,0.1536723163841808
+Curricular units 1st sem (grade),5,885,13.625,18.875,0.12090395480225989
+Curricular units 2nd sem (approved),1,885,0.0,1.0,0.8327683615819209
+Curricular units 2nd sem (approved),2,885,1.0,4.0,0.45084745762711864
+Curricular units 2nd sem (approved),3,884,4.0,6.0,0.1753393665158371
+Curricular units 2nd sem (approved),4,885,6.0,6.0,0.06440677966101695
+Curricular units 2nd sem (approved),5,885,6.0,20.0,0.08248587570621468
+Curricular units 2nd sem (grade),1,885,0.0,10.0,0.8293785310734463
+Curricular units 2nd sem (grade),2,885,10.0,11.75,0.3525423728813559
+Curricular units 2nd sem (grade),3,884,11.75,12.666666666666666,0.1832579185520362
+Curricular units 2nd sem (grade),4,885,12.666666666666666,13.666666666666666,0.13559322033898305
+Curricular units 2nd sem (grade),5,885,13.666666666666666,18.571428571428573,0.10508474576271186

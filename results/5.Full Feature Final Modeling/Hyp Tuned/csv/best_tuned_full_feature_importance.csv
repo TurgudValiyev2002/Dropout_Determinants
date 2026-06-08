@@ -1,0 +1,245 @@
+feature,importance
+Admission grade,911.0
+Curricular units 2nd sem (approved),864.0
+Curricular units 1st sem (grade),785.0
+Curricular units 2nd sem (grade),739.0
+Age at enrollment,705.0
+Previous qualification (grade),598.0
+Curricular units 2nd sem (evaluations),521.0
+Curricular units 1st sem (approved),521.0
+Unemployment rate,428.0
+Curricular units 1st sem (evaluations),373.0
+GDP,369.0
+Curricular units 1st sem (enrolled),366.0
+Inflation rate,317.0
+Tuition fees up to date_0,299.0
+Curricular units 2nd sem (enrolled),285.0
+Scholarship holder_0,178.0
+Course_9853,146.0
+Course_9119,144.0
+Debtor_0,143.0
+Application mode_1,127.0
+Course_9238,121.0
+Mother's occupation_0,118.0
+Course_9085,92.0
+Application order_1,90.0
+Father's occupation_9,89.0
+Mother's qualification_1,88.0
+Displaced_0,88.0
+Curricular units 2nd sem (credited),88.0
+Mother's occupation_9,81.0
+Course_9130,80.0
+Mother's qualification_12,79.0
+Application order_6,78.0
+Father's occupation_90,76.0
+Application mode_43,73.0
+Application mode_17,68.0
+Gender_0,67.0
+Father's qualification_37,64.0
+Mother's qualification_38,63.0
+Curricular units 2nd sem (without evaluations),62.0
+Father's qualification_1,61.0
+Tuition fees up to date_1,61.0
+Father's occupation_7,59.0
+Mother's qualification_3,58.0
+Course_9147,58.0
+Mother's occupation_4,57.0
+Father's qualification_38,57.0
+Father's occupation_5,54.0
+Previous qualification_19,53.0
+Course_9991,52.0
+Father's occupation_3,51.0
+Course_8014,50.0
+Father's occupation_6,50.0
+Father's qualification_2,50.0
+Curricular units 1st sem (credited),47.0
+Marital status_2,47.0
+Mother's qualification_4,47.0
+Father's occupation_0,46.0
+Mother's qualification_34,42.0
+Course_9500,42.0
+Application mode_7,42.0
+Course_9773,41.0
+Mother's qualification_37,40.0
+Father's qualification_19,40.0
+Marital status_1,40.0
+Application order_2,39.0
+Application order_5,38.0
+Father's occupation_2,38.0
+Nacionality_41,36.0
+Mother's occupation_5,31.0
+Father's occupation_10,30.0
+Course_9254,29.0
+Father's occupation_4,29.0
+Father's occupation_8,29.0
+Curricular units 1st sem (without evaluations),29.0
+Mother's occupation_8,29.0
+Mother's qualification_19,29.0
+Application order_3,28.0
+Mother's occupation_7,28.0
+Displaced_1,27.0
+Previous qualification_1,26.0
+Gender_1,26.0
+Course_9070,25.0
+Scholarship holder_1,25.0
+Mother's occupation_90,24.0
+Mother's occupation_1,22.0
+Application mode_39,22.0
+Debtor_1,22.0
+Mother's occupation_6,21.0
+Application mode_42,20.0
+Previous qualification_12,19.0
+Application mode_18,19.0
+Course_171,19.0
+Application mode_51,19.0
+Course_9003,18.0
+Previous qualification_3,17.0
+Mother's occupation_2,17.0
+Previous qualification_39,17.0
+Marital status_4,15.0
+Nacionality_1,15.0
+Application order_4,15.0
+Father's occupation_1,11.0
+Mother's occupation_3,9.0
+Father's qualification_3,9.0
+Course_9670,7.0
+Daytime/evening attendance_0,7.0
+Application mode_44,7.0
+Previous qualification_40,5.0
+Father's qualification_34,4.0
+Mother's qualification_2,3.0
+Daytime/evening attendance_1,3.0
+Course_9556,2.0
+International_0,1.0
+Course_33,0.0
+Application mode_5,0.0
+Application mode_53,0.0
+Marital status_6,0.0
+Mother's qualification_36,0.0
+Mother's qualification_35,0.0
+Mother's qualification_30,0.0
+Mother's qualification_29,0.0
+Mother's qualification_22,0.0
+Mother's qualification_26,0.0
+Mother's qualification_18,0.0
+Mother's qualification_14,0.0
+Mother's qualification_10,0.0
+Mother's qualification_11,0.0
+Nacionality_24,0.0
+Nacionality_22,0.0
+Nacionality_25,0.0
+Nacionality_26,0.0
+Nacionality_6,0.0
+Nacionality_62,0.0
+Nacionality_109,0.0
+Nacionality_17,0.0
+Nacionality_14,0.0
+Nacionality_11,0.0
+Nacionality_105,0.0
+Nacionality_108,0.0
+Nacionality_21,0.0
+Nacionality_2,0.0
+Nacionality_103,0.0
+Previous qualification_42,0.0
+Previous qualification_5,0.0
+Previous qualification_43,0.0
+Previous qualification_6,0.0
+Previous qualification_9,0.0
+Nacionality_100,0.0
+Nacionality_101,0.0
+Previous qualification_15,0.0
+Previous qualification_38,0.0
+Previous qualification_2,0.0
+Previous qualification_10,0.0
+Previous qualification_4,0.0
+Application mode_10,0.0
+Application mode_15,0.0
+Application mode_16,0.0
+Application mode_2,0.0
+Application mode_27,0.0
+Marital status_5,0.0
+Marital status_3,0.0
+Father's qualification_36,0.0
+Mother's qualification_43,0.0
+Mother's qualification_6,0.0
+Mother's qualification_44,0.0
+Father's qualification_12,0.0
+Father's qualification_11,0.0
+Father's qualification_10,0.0
+Mother's qualification_9,0.0
+Mother's qualification_5,0.0
+Father's qualification_18,0.0
+Father's qualification_14,0.0
+Father's qualification_13,0.0
+Father's qualification_26,0.0
+Father's qualification_25,0.0
+Father's qualification_22,0.0
+Father's qualification_29,0.0
+Mother's qualification_40,0.0
+Mother's qualification_41,0.0
+Mother's qualification_42,0.0
+Mother's qualification_39,0.0
+Mother's occupation_194,0.0
+Mother's occupation_193,0.0
+Mother's occupation_192,0.0
+Mother's occupation_191,0.0
+Mother's occupation_173,0.0
+Mother's occupation_175,0.0
+Mother's occupation_171,0.0
+Mother's occupation_153,0.0
+Mother's occupation_143,0.0
+Mother's occupation_152,0.0
+Mother's occupation_151,0.0
+Mother's occupation_144,0.0
+Mother's occupation_134,0.0
+Mother's occupation_141,0.0
+Mother's occupation_132,0.0
+Mother's occupation_131,0.0
+Father's qualification_40,0.0
+Mother's occupation_125,0.0
+Mother's occupation_123,0.0
+Mother's occupation_122,0.0
+Mother's occupation_10,0.0
+Father's qualification_9,0.0
+Father's qualification_5,0.0
+Father's qualification_6,0.0
+Father's qualification_39,0.0
+Father's qualification_4,0.0
+Father's qualification_43,0.0
+Father's qualification_41,0.0
+Father's qualification_31,0.0
+Father's qualification_30,0.0
+Father's qualification_33,0.0
+Mother's occupation_99,0.0
+Father's occupation_171,0.0
+Father's occupation_163,0.0
+Father's occupation_153,0.0
+Father's occupation_152,0.0
+Father's occupation_151,0.0
+Father's occupation_144,0.0
+Father's occupation_143,0.0
+Father's occupation_141,0.0
+Father's occupation_135,0.0
+Father's occupation_134,0.0
+Father's occupation_132,0.0
+Father's occupation_131,0.0
+Father's occupation_124,0.0
+Father's occupation_123,0.0
+Father's occupation_122,0.0
+Father's occupation_121,0.0
+Father's occupation_114,0.0
+Father's occupation_112,0.0
+Father's occupation_103,0.0
+Father's occupation_102,0.0
+Father's occupation_183,0.0
+Father's occupation_192,0.0
+Father's occupation_193,0.0
+Father's occupation_194,0.0
+Father's occupation_172,0.0
+Father's occupation_175,0.0
+Father's occupation_181,0.0
+Father's occupation_182,0.0
+Educational special needs_0,0.0
+Educational special needs_1,0.0
+Father's occupation_99,0.0
+International_1,0.0

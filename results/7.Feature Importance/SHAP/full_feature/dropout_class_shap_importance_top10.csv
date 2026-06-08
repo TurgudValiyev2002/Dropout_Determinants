@@ -1,0 +1,11 @@
+experiment,experiment_key,feature,global_mean_abs_shap,dropout_mean_abs_shap,encoded_columns
+Full feature tuned,full_feature,Curricular units 2nd sem (approved),0.6215094078668939,0.6780468499654574,1
+Full feature tuned,full_feature,Tuition fees up to date,0.20515649027954172,0.35067693898567776,2
+Full feature tuned,full_feature,Curricular units 2nd sem (grade),0.15497303207833021,0.17619594774846434,1
+Full feature tuned,full_feature,Course,0.1899592189366878,0.16827551164784807,17
+Full feature tuned,full_feature,Age at enrollment,0.09559896575217429,0.1588602632801634,1
+Full feature tuned,full_feature,Curricular units 2nd sem (enrolled),0.08510670457571534,0.12606954467113557,1
+Full feature tuned,full_feature,Father's occupation,0.1115614698648448,0.11662291333689698,41
+Full feature tuned,full_feature,Curricular units 1st sem (approved),0.2311662290857377,0.11062984145409051,1
+Full feature tuned,full_feature,Curricular units 2nd sem (evaluations),0.12901966676734697,0.09586047845579618,1
+Full feature tuned,full_feature,Unemployment rate,0.07157562976261969,0.08886864173785726,1

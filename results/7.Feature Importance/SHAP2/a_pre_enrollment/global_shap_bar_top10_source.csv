@@ -1,0 +1,25 @@
+experiment,experiment_key,feature,mean_abs_shap
+Stage A tuned,A_pre_enrollment,Tuition fees up to date,0.32068446703796005
+Stage A tuned,A_pre_enrollment,Course,0.19469127511010978
+Stage A tuned,A_pre_enrollment,Scholarship holder,0.19287239019036867
+Stage A tuned,A_pre_enrollment,Age at enrollment,0.15745489288488793
+Stage A tuned,A_pre_enrollment,Admission grade,0.1323873328280065
+Stage A tuned,A_pre_enrollment,Gender,0.09764418137711027
+Stage A tuned,A_pre_enrollment,Unemployment rate,0.08843903355062915
+Stage A tuned,A_pre_enrollment,Application mode,0.08682765546704432
+Stage A tuned,A_pre_enrollment,Mother's occupation,0.08321099242290148
+Stage A tuned,A_pre_enrollment,Father's occupation,0.08083648992642907
+Stage A tuned,A_pre_enrollment,Previous qualification (grade),0.0775489250542715
+Stage A tuned,A_pre_enrollment,Application order,0.07725150463404955
+Stage A tuned,A_pre_enrollment,GDP,0.07481190297024602
+Stage A tuned,A_pre_enrollment,Mother's qualification,0.05499802783514715
+Stage A tuned,A_pre_enrollment,Debtor,0.04758955518637281
+Stage A tuned,A_pre_enrollment,Inflation rate,0.040664584823198215
+Stage A tuned,A_pre_enrollment,Previous qualification,0.04025987228998167
+Stage A tuned,A_pre_enrollment,Father's qualification,0.033063553862579115
+Stage A tuned,A_pre_enrollment,Displaced,0.02822205313976332
+Stage A tuned,A_pre_enrollment,Marital status,0.02149261216158007
+Stage A tuned,A_pre_enrollment,Nacionality,0.004077471165563341
+Stage A tuned,A_pre_enrollment,Daytime/evening attendance,0.0024570428179968595
+Stage A tuned,A_pre_enrollment,International,0.0015119903541254889
+Stage A tuned,A_pre_enrollment,Educational special needs,0.0007908379550535711

@@ -1,0 +1,151 @@
+experiment,experiment_key,feature,mean_abs_shap
+Stage A tuned,A_pre_enrollment,Tuition fees up to date,0.32068446703796005
+Stage A tuned,A_pre_enrollment,Course,0.19469127511010978
+Stage A tuned,A_pre_enrollment,Scholarship holder,0.19287239019036867
+Stage A tuned,A_pre_enrollment,Age at enrollment,0.15745489288488793
+Stage A tuned,A_pre_enrollment,Admission grade,0.1323873328280065
+Stage A tuned,A_pre_enrollment,Gender,0.09764418137711027
+Stage A tuned,A_pre_enrollment,Unemployment rate,0.08843903355062915
+Stage A tuned,A_pre_enrollment,Application mode,0.08682765546704432
+Stage A tuned,A_pre_enrollment,Mother's occupation,0.08321099242290148
+Stage A tuned,A_pre_enrollment,Father's occupation,0.08083648992642907
+Stage A tuned,A_pre_enrollment,Previous qualification (grade),0.0775489250542715
+Stage A tuned,A_pre_enrollment,Application order,0.07725150463404955
+Stage A tuned,A_pre_enrollment,GDP,0.07481190297024602
+Stage A tuned,A_pre_enrollment,Mother's qualification,0.05499802783514715
+Stage A tuned,A_pre_enrollment,Debtor,0.04758955518637281
+Stage A tuned,A_pre_enrollment,Inflation rate,0.040664584823198215
+Stage A tuned,A_pre_enrollment,Previous qualification,0.04025987228998167
+Stage A tuned,A_pre_enrollment,Father's qualification,0.033063553862579115
+Stage A tuned,A_pre_enrollment,Displaced,0.02822205313976332
+Stage A tuned,A_pre_enrollment,Marital status,0.02149261216158007
+Stage A tuned,A_pre_enrollment,Nacionality,0.004077471165563341
+Stage A tuned,A_pre_enrollment,Daytime/evening attendance,0.0024570428179968595
+Stage A tuned,A_pre_enrollment,International,0.0015119903541254889
+Stage A tuned,A_pre_enrollment,Educational special needs,0.0007908379550535711
+Stage B tuned,B_first_semester,Curricular units 1st sem (approved),0.6572316416873075
+Stage B tuned,B_first_semester,Tuition fees up to date,0.22515154718863553
+Stage B tuned,B_first_semester,Curricular units 1st sem (grade),0.20048356734037218
+Stage B tuned,B_first_semester,Curricular units 1st sem (evaluations),0.15206502477764305
+Stage B tuned,B_first_semester,Scholarship holder,0.11404201845041648
+Stage B tuned,B_first_semester,Curricular units 1st sem (enrolled),0.11264993980298556
+Stage B tuned,B_first_semester,Age at enrollment,0.10939750797245881
+Stage B tuned,B_first_semester,Course,0.10859293958136226
+Stage B tuned,B_first_semester,Unemployment rate,0.09101972467870285
+Stage B tuned,B_first_semester,Admission grade,0.08341663951255752
+Stage B tuned,B_first_semester,Father's occupation,0.07178863163424447
+Stage B tuned,B_first_semester,Mother's occupation,0.07029174375996532
+Stage B tuned,B_first_semester,Previous qualification (grade),0.058428387155061504
+Stage B tuned,B_first_semester,Gender,0.05799007996842679
+Stage B tuned,B_first_semester,Application mode,0.056834044662813575
+Stage B tuned,B_first_semester,Application order,0.0548277300746679
+Stage B tuned,B_first_semester,Mother's qualification,0.041557205951658294
+Stage B tuned,B_first_semester,Displaced,0.04061134559401656
+Stage B tuned,B_first_semester,GDP,0.03718300651511629
+Stage B tuned,B_first_semester,Debtor,0.034937321914235826
+Stage B tuned,B_first_semester,Previous qualification,0.027456404330326565
+Stage B tuned,B_first_semester,Curricular units 1st sem (credited),0.02722579009394652
+Stage B tuned,B_first_semester,Father's qualification,0.02664000229897621
+Stage B tuned,B_first_semester,Inflation rate,0.0218562426403527
+Stage B tuned,B_first_semester,Marital status,0.008520344550254313
+Stage B tuned,B_first_semester,Daytime/evening attendance,0.0052726970370184645
+Stage B tuned,B_first_semester,Curricular units 1st sem (without evaluations),0.003909327783034506
+Stage B tuned,B_first_semester,Nacionality,0.002455380461331294
+Stage B tuned,B_first_semester,Educational special needs,0.00012255214647940234
+Stage B tuned,B_first_semester,International,0.0
+Stage C tuned,C_second_semester,Curricular units 2nd sem (approved),0.6864679041565447
+Stage C tuned,C_second_semester,Tuition fees up to date,0.22887896654819725
+Stage C tuned,C_second_semester,Curricular units 1st sem (approved),0.2164022696658514
+Stage C tuned,C_second_semester,Curricular units 2nd sem (grade),0.144267615764697
+Stage C tuned,C_second_semester,Curricular units 2nd sem (evaluations),0.14024853925219627
+Stage C tuned,C_second_semester,Course,0.1162336839396604
+Stage C tuned,C_second_semester,Curricular units 1st sem (evaluations),0.11013184069282789
+Stage C tuned,C_second_semester,Age at enrollment,0.1074689432472342
+Stage C tuned,C_second_semester,Scholarship holder,0.09724759739094237
+Stage C tuned,C_second_semester,Admission grade,0.0917295501810498
+Stage C tuned,C_second_semester,Curricular units 2nd sem (enrolled),0.08575344801197594
+Stage C tuned,C_second_semester,Curricular units 1st sem (grade),0.08354194389691418
+Stage C tuned,C_second_semester,Unemployment rate,0.08160564682318394
+Stage C tuned,C_second_semester,Curricular units 1st sem (enrolled),0.07982308808966991
+Stage C tuned,C_second_semester,Mother's occupation,0.07838187399518695
+Stage C tuned,C_second_semester,Father's occupation,0.07498653511544279
+Stage C tuned,C_second_semester,Application order,0.06904774771408524
+Stage C tuned,C_second_semester,Previous qualification (grade),0.057857276882077105
+Stage C tuned,C_second_semester,Application mode,0.046817680699832304
+Stage C tuned,C_second_semester,Mother's qualification,0.039339306271270545
+Stage C tuned,C_second_semester,Displaced,0.03800918134572855
+Stage C tuned,C_second_semester,GDP,0.03277787926059575
+Stage C tuned,C_second_semester,Debtor,0.028785731789926324
+Stage C tuned,C_second_semester,Father's qualification,0.026551927753742717
+Stage C tuned,C_second_semester,Gender,0.025194565976656067
+Stage C tuned,C_second_semester,Inflation rate,0.02281710138755783
+Stage C tuned,C_second_semester,Previous qualification,0.022142538277941038
+Stage C tuned,C_second_semester,Curricular units 2nd sem (credited),0.01631617704470774
+Stage C tuned,C_second_semester,Marital status,0.009989469974825482
+Stage C tuned,C_second_semester,Curricular units 1st sem (credited),0.007840082260140052
+Stage C tuned,C_second_semester,Curricular units 2nd sem (without evaluations),0.003768114866389609
+Stage C tuned,C_second_semester,Nacionality,0.0033154833142606936
+Stage C tuned,C_second_semester,Curricular units 1st sem (without evaluations),0.002539721115627115
+Stage C tuned,C_second_semester,Daytime/evening attendance,0.0017461422533300503
+Stage C tuned,C_second_semester,Educational special needs,0.0
+Stage C tuned,C_second_semester,International,0.0
+Full feature tuned,full_feature,Curricular units 2nd sem (approved),0.6215094078668932
+Full feature tuned,full_feature,Curricular units 1st sem (approved),0.23116622908573783
+Full feature tuned,full_feature,Tuition fees up to date,0.20513647732270734
+Full feature tuned,full_feature,Curricular units 2nd sem (grade),0.15497303207833005
+Full feature tuned,full_feature,Curricular units 2nd sem (evaluations),0.129019666767347
+Full feature tuned,full_feature,Curricular units 1st sem (evaluations),0.10882918669961188
+Full feature tuned,full_feature,Course,0.1067834198871101
+Full feature tuned,full_feature,Scholarship holder,0.10050042138597216
+Full feature tuned,full_feature,Age at enrollment,0.09559896575217426
+Full feature tuned,full_feature,Curricular units 2nd sem (enrolled),0.08510670457571537
+Full feature tuned,full_feature,Admission grade,0.07896755696999394
+Full feature tuned,full_feature,Curricular units 1st sem (enrolled),0.07701132857487293
+Full feature tuned,full_feature,Unemployment rate,0.07157562976261972
+Full feature tuned,full_feature,Curricular units 1st sem (grade),0.07045463157001311
+Full feature tuned,full_feature,Father's occupation,0.07018719959160001
+Full feature tuned,full_feature,Mother's occupation,0.06524432388833287
+Full feature tuned,full_feature,Application order,0.05772575398846785
+Full feature tuned,full_feature,Previous qualification (grade),0.04808998802418875
+Full feature tuned,full_feature,Application mode,0.04806390683352257
+Full feature tuned,full_feature,Mother's qualification,0.03979052064309005
+Full feature tuned,full_feature,Displaced,0.03114772221969106
+Full feature tuned,full_feature,Debtor,0.029934628236422407
+Full feature tuned,full_feature,GDP,0.02934613827423943
+Full feature tuned,full_feature,Father's qualification,0.024549602997563758
+Full feature tuned,full_feature,Inflation rate,0.021567009742100463
+Full feature tuned,full_feature,Previous qualification,0.021270891645152924
+Full feature tuned,full_feature,Curricular units 2nd sem (credited),0.016523575771931774
+Full feature tuned,full_feature,Gender,0.015705382429711003
+Full feature tuned,full_feature,Marital status,0.008274090242149201
+Full feature tuned,full_feature,Curricular units 1st sem (credited),0.0059729260343411115
+Full feature tuned,full_feature,Curricular units 2nd sem (without evaluations),0.003965383023852021
+Full feature tuned,full_feature,Curricular units 1st sem (without evaluations),0.0027056023028576436
+Full feature tuned,full_feature,Nacionality,0.0026773071511257433
+Full feature tuned,full_feature,Daytime/evening attendance,0.001687821519235527
+Full feature tuned,full_feature,International,7.518968890629319e-05
+Full feature tuned,full_feature,Educational special needs,0.0
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (approved),0.688575474413811
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (approved),0.26930725547189066
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Tuition fees up to date,0.2056877586144189
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (evaluations),0.14970575735316566
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (grade),0.14830132752443814
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (enrolled),0.12436232789839274
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Admission grade,0.12161830718634256
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Age at enrollment,0.12124719155131121
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (evaluations),0.11809442669829172
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Scholarship holder,0.10583090326933266
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (enrolled),0.09652824794468351
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (grade),0.08209717284477042
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Previous qualification (grade),0.06314195137460374
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Displaced,0.054321443554741014
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Gender,0.04214576551159162
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Debtor,0.0295290717470289
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (credited),0.022147910845523668
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (credited),0.011155990325270839
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Marital status,0.009589576311742948
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 2nd sem (without evaluations),0.006803224403691541
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Curricular units 1st sem (without evaluations),0.0048722172922116514
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Nacionality,0.002757895940845467
+Academic + demographic-financial tuned,academic_plus_demographic_financial,International,0.0002647793729865086
+Academic + demographic-financial tuned,academic_plus_demographic_financial,Educational special needs,0.0

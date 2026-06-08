@@ -1,0 +1,37 @@
+experiment,experiment_key,feature,mean_abs_shap
+Full feature tuned,full_feature,Curricular units 2nd sem (approved),0.6780468499654574
+Full feature tuned,full_feature,Tuition fees up to date,0.3506769389856778
+Full feature tuned,full_feature,Curricular units 2nd sem (grade),0.17619594774846434
+Full feature tuned,full_feature,Age at enrollment,0.1588602632801634
+Full feature tuned,full_feature,Curricular units 2nd sem (enrolled),0.12606954467113557
+Full feature tuned,full_feature,Curricular units 1st sem (approved),0.11062984145409051
+Full feature tuned,full_feature,Course,0.10220881991081082
+Full feature tuned,full_feature,Curricular units 2nd sem (evaluations),0.09586047845579618
+Full feature tuned,full_feature,Unemployment rate,0.08886864173785726
+Full feature tuned,full_feature,Displaced,0.07927871400968318
+Full feature tuned,full_feature,Application order,0.07213490740893083
+Full feature tuned,full_feature,Father's occupation,0.06787961879340064
+Full feature tuned,full_feature,Scholarship holder,0.06773375824319425
+Full feature tuned,full_feature,Admission grade,0.06174913515727604
+Full feature tuned,full_feature,Curricular units 1st sem (evaluations),0.05697108138301899
+Full feature tuned,full_feature,Curricular units 1st sem (enrolled),0.05511735857615568
+Full feature tuned,full_feature,Debtor,0.04818014900307458
+Full feature tuned,full_feature,Mother's qualification,0.04543178439883922
+Full feature tuned,full_feature,Application mode,0.045390039933106106
+Full feature tuned,full_feature,Curricular units 1st sem (grade),0.04459235907158704
+Full feature tuned,full_feature,GDP,0.04444775777633285
+Full feature tuned,full_feature,Previous qualification (grade),0.03937023250355882
+Full feature tuned,full_feature,Mother's occupation,0.03825041385519658
+Full feature tuned,full_feature,Curricular units 2nd sem (credited),0.03281808090655479
+Full feature tuned,full_feature,Gender,0.02927565236074586
+Full feature tuned,full_feature,Inflation rate,0.02393974248875366
+Full feature tuned,full_feature,Father's qualification,0.011721838241262243
+Full feature tuned,full_feature,Curricular units 1st sem (credited),0.011500085973650586
+Full feature tuned,full_feature,Curricular units 2nd sem (without evaluations),0.008659672540672483
+Full feature tuned,full_feature,Previous qualification,0.004337878136479403
+Full feature tuned,full_feature,Daytime/evening attendance,0.00369415691110774
+Full feature tuned,full_feature,Marital status,0.0032048796745688937
+Full feature tuned,full_feature,Curricular units 1st sem (without evaluations),0.0008818550724606263
+Full feature tuned,full_feature,Nacionality,0.000737515174820243
+Full feature tuned,full_feature,Educational special needs,0.0
+Full feature tuned,full_feature,International,0.0

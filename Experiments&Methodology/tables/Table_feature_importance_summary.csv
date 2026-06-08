@@ -1,0 +1,6 @@
+experiment,experiment_key,model,model_key,raw_features,encoded_features,test_macro_f1,test_balanced_accuracy,test_log_loss,top_permutation_feature,top_global_shap_feature,top_dropout_shap_feature
+Stage A tuned,A_pre_enrollment,LightGBM,lightgbm,24,232,0.5712663061706311,0.6885189345776084,0.8491917272488801,Tuition fees up to date,Course,Tuition fees up to date
+Stage B tuned,B_first_semester,LightGBM,lightgbm,30,238,0.680224963243426,0.7727566756273294,0.6466849659198339,Curricular units 1st sem (approved),Curricular units 1st sem (approved),Curricular units 1st sem (approved)
+Stage C tuned,C_second_semester,LightGBM,lightgbm,36,244,0.6981260275411817,0.7838987068776664,0.5970616190317755,Curricular units 2nd sem (approved),Curricular units 2nd sem (approved),Curricular units 2nd sem (approved)
+Full feature tuned,full_feature,LightGBM,lightgbm,36,244,0.7015710531241525,0.7891688981910626,0.5901807581686223,Curricular units 2nd sem (approved),Curricular units 2nd sem (approved),Curricular units 2nd sem (approved)
+Academic + demographic-financial tuned,academic_plus_demographic_financial,LightGBM,lightgbm,24,54,0.6983318183100206,0.785147435664643,0.6212850326355543,Curricular units 2nd sem (approved),Curricular units 2nd sem (approved),Curricular units 2nd sem (approved)
