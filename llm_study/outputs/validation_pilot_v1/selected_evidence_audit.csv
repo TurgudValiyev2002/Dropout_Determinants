@@ -1,0 +1,61 @@
+case_id,feature,recorded_value,decoded_value,decoding_status,dropout_raw_score_contribution,direction
+validation_0264_B_first_semester,Course,9853,Basic Education,verified_code,0.16891398037602864,raises
+validation_0264_B_first_semester,Curricular units 1st sem (enrolled),7,7,numeric,0.06426512711917041,raises
+validation_0264_B_first_semester,Curricular units 1st sem (approved),7,7,numeric,-0.5704310786342308,lowers
+validation_0351_B_first_semester,Tuition fees up to date,0,no,verified_code,1.603722315507633,raises
+validation_0351_B_first_semester,GDP,0.79,0.79,numeric,0.20373100278648912,raises
+validation_0351_B_first_semester,Curricular units 1st sem (approved),5,5,numeric,-0.41138294459876135,lowers
+validation_0348_B_first_semester,GDP,2.02,2.02,numeric,0.24401667028894355,raises
+validation_0348_B_first_semester,Application mode,51,Change of institution/course,verified_code,0.1754371333947277,raises
+validation_0348_B_first_semester,Curricular units 1st sem (approved),5,5,numeric,-0.5196280384492677,lowers
+validation_0201_B_first_semester,Application order,6,recorded application rank 6,documented_ordinal,0.20516173158050222,raises
+validation_0201_B_first_semester,Mother's occupation,5,"Personal Services, Security and Safety Workers and Sellers",verified_code,0.05354830305341519,raises
+validation_0201_B_first_semester,Curricular units 1st sem (approved),6,6,numeric,-0.411114545413356,lowers
+validation_0133_B_first_semester,Age at enrollment,51,51,numeric,0.4550613810726469,raises
+validation_0133_B_first_semester,Curricular units 1st sem (credited),4,4,numeric,0.37808971074730147,raises
+validation_0133_B_first_semester,Curricular units 1st sem (approved),7,7,numeric,-0.6513059818537218,lowers
+validation_0028_B_first_semester,Curricular units 1st sem (approved),3,3,numeric,0.4457388984500329,raises
+validation_0028_B_first_semester,Curricular units 1st sem (enrolled),6,6,numeric,0.15849766816466324,raises
+validation_0028_B_first_semester,Tuition fees up to date,1,yes,verified_code,-0.2868698998170421,lowers
+validation_0363_B_first_semester,Tuition fees up to date,0,no,verified_code,1.196167618490767,raises
+validation_0363_B_first_semester,Debtor,1,yes,verified_code,0.46572136607926395,raises
+validation_0363_B_first_semester,Curricular units 1st sem (approved),5,5,numeric,-0.31380802937767854,lowers
+validation_0529_B_first_semester,Gender,1,male,verified_code,0.15780263430599453,raises
+validation_0529_B_first_semester,Curricular units 1st sem (enrolled),7,7,numeric,0.08152842827912382,raises
+validation_0529_B_first_semester,Curricular units 1st sem (approved),5,5,numeric,-0.45783394621250145,lowers
+validation_0645_B_first_semester,Gender,1,male,verified_code,0.141188815299504,raises
+validation_0645_B_first_semester,Displaced,1,yes,verified_code,0.10178613903005315,raises
+validation_0645_B_first_semester,Curricular units 1st sem (approved),6,6,numeric,-0.45685010225709916,lowers
+validation_0320_B_first_semester,Application order,3,recorded application rank 3,documented_ordinal,0.19692422142668256,raises
+validation_0320_B_first_semester,Gender,1,male,verified_code,0.14989916478137338,raises
+validation_0320_B_first_semester,Curricular units 1st sem (approved),6,6,numeric,-0.4991440740733117,lowers
+validation_0305_B_first_semester,Previous qualification (grade),121.0,121 on the documented 0–200 scale,numeric,0.03942232607566442,raises
+validation_0305_B_first_semester,Scholarship holder,0,no,verified_code,0.026502812047356567,raises
+validation_0305_B_first_semester,Unemployment rate,7.6,7.6,numeric,-0.2937368368932295,lowers
+validation_0491_B_first_semester,Curricular units 1st sem (approved),0,0,numeric,1.060229858963925,raises
+validation_0491_B_first_semester,Curricular units 1st sem (grade),0.0,0 on the documented 0–20 scale,numeric,0.09398060625426106,raises
+validation_0491_B_first_semester,Tuition fees up to date,1,yes,verified_code,-0.3713239482147808,lowers
+validation_0218_B_first_semester,Gender,1,male,verified_code,0.23047242635361367,raises
+validation_0218_B_first_semester,Unemployment rate,12.7,12.7,numeric,0.12717085594579947,raises
+validation_0218_B_first_semester,Tuition fees up to date,1,yes,verified_code,-0.21054950900818947,lowers
+validation_0439_B_first_semester,Curricular units 1st sem (approved),0,0,numeric,1.513618045049916,raises
+validation_0439_B_first_semester,Curricular units 1st sem (enrolled),6,6,numeric,0.30151933890846394,raises
+validation_0439_B_first_semester,Tuition fees up to date,1,yes,verified_code,-0.28115486451737315,lowers
+validation_0643_B_first_semester,Curricular units 1st sem (credited),6,6,numeric,0.40792667418000406,raises
+validation_0643_B_first_semester,Application mode,42,Transfer,verified_code,0.25304333781917016,raises
+validation_0643_B_first_semester,Curricular units 1st sem (approved),7,7,numeric,-0.6330050428337873,lowers
+validation_0114_B_first_semester,Curricular units 1st sem (approved),0,0,numeric,1.5608484310879291,raises
+validation_0114_B_first_semester,Tuition fees up to date,0,no,verified_code,1.3350902907262368,raises
+validation_0114_B_first_semester,GDP,3.51,3.51,numeric,-0.185878632275419,lowers
+validation_0697_B_first_semester,Tuition fees up to date,0,no,verified_code,1.3208202780979879,raises
+validation_0697_B_first_semester,Age at enrollment,38,38,numeric,0.4538148559244172,raises
+validation_0697_B_first_semester,Curricular units 1st sem (approved),5,5,numeric,-0.4932153199471273,lowers
+validation_0672_B_first_semester,Curricular units 1st sem (approved),0,0,numeric,1.7081030159520543,raises
+validation_0672_B_first_semester,Curricular units 1st sem (grade),0.0,0 on the documented 0–20 scale,numeric,0.30687480661094435,raises
+validation_0672_B_first_semester,Tuition fees up to date,1,yes,verified_code,-0.23022791981108887,lowers
+validation_0055_B_first_semester,Curricular units 1st sem (approved),1,1,numeric,1.3230476970686529,raises
+validation_0055_B_first_semester,Father's occupation,90,Other Situation,verified_code,0.7124263885561131,raises
+validation_0055_B_first_semester,Tuition fees up to date,1,yes,verified_code,-0.28452753486228477,lowers
+validation_0375_B_first_semester,Debtor,1,yes,verified_code,0.31734255462495536,raises
+validation_0375_B_first_semester,Unemployment rate,13.9,13.9,numeric,0.07092399439683607,raises
+validation_0375_B_first_semester,Curricular units 1st sem (approved),5,5,numeric,-0.3279011832742076,lowers

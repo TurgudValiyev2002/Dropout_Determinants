@@ -1,0 +1,6 @@
+Review independently; do not discuss scores until both reviewers finish.
+1. Open 01_explanations.html in a browser. Enter clarity/usefulness 1-5 and preference A/B/tie in your assigned CSV.
+2. Then open 02_factual_audit.html. Complete the separate factual flags and notes.
+3. Return your completed CSV. Blank cells mean missing, not zero. Do not edit explanation text.
+Use R1 or R2 as assigned. Additional reviewers require their own blank copy with a distinct ID.
+There are 180 pairs. Take breaks. Do not use an LLM to assign human-review scores.

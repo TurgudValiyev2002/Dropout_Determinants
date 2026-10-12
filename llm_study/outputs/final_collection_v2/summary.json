@@ -1,0 +1,22 @@
+{
+  "expected_records": 1326,
+  "students": 442,
+  "statuses": {
+    "generated": 1326
+  },
+  "by_stage": {
+    "A_pre_enrollment": {
+      "generated": 442
+    },
+    "B_first_semester": {
+      "generated": 442
+    },
+    "C_second_semester": {
+      "generated": 442
+    }
+  },
+  "over_word_limit": 714,
+  "token_limit_flags": 0,
+  "closing_mismatch_generated": 3,
+  "quality_status": "Not evaluated. Generation success and lexical compliance do not prove correctness or clarity."
+}

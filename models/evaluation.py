@@ -32,7 +32,8 @@ def classification_metrics(y_true, y_pred, y_proba=None) -> dict:
     arr = np.asarray(per_class, dtype=float)
     metrics = {
         "accuracy": float(np.mean(y_true == y_pred)),
-        "balanced_accuracy": float(arr[:, 3].mean()),
+        # Standard multiclass balanced accuracy is macro-averaged recall.
+        "balanced_accuracy": float(arr[:, 1].mean()),
         "macro_f1": float(arr[:, 2].mean()),
         "macro_precision": float(arr[:, 0].mean()),
         "macro_recall": float(arr[:, 1].mean()),
@@ -89,4 +90,3 @@ def average_precision_numpy(y_true, y_score) -> float:
     tp = np.cumsum(y_sorted == 1)
     precision = tp / (np.arange(len(y_sorted)) + 1)
     return float(np.sum(precision[y_sorted == 1]) / positives)
-

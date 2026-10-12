@@ -1,0 +1,36 @@
+{
+  "model_path": "/home/turgud.valiyev/rdcc-distillation/models/nemotron_3_5_lightning_bf16",
+  "config_sha256": "a3827a0f5e311547b40943dc081e3ff2f8a277466e8c1a3df2291e8db8a7617c",
+  "script_sha256": "f9dce4fe3c414a997e6f0e6fcdcd5722bd1b901aac882801f8c5977d24525b23",
+  "environment": {
+    "torch": "2.11.0+cu126",
+    "transformers": "5.7.0.dev0",
+    "accelerate": "1.13.0"
+  },
+  "slurm_job_id": "1727616",
+  "python": "3.12.3 (main, Sep 11 2024, 14:17:37) [GCC 13.2.0]",
+  "gpu_names": [
+    "NVIDIA L40S",
+    "NVIDIA L40S"
+  ],
+  "settings": {
+    "dtype": "bfloat16",
+    "device_map": "balanced",
+    "attention": "eager",
+    "enable_thinking": false,
+    "do_sample": false,
+    "max_new_tokens": 256,
+    "seed": 123
+  },
+  "prompt_tokens": 413,
+  "generated_tokens": 152,
+  "token_limit_reached": false,
+  "answer_word_count": 104,
+  "load_seconds": 139.78302914649248,
+  "generation_seconds": 30.776575230062008,
+  "peak_allocated_gib": [
+    26.039577960968018,
+    33.207679748535156
+  ],
+  "scope": "Artificial smoke test only, not a scientific evaluation or throughput benchmark"
+}

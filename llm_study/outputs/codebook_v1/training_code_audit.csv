@@ -1,0 +1,227 @@
+feature,code,status,label
+Marital status,1,verified,single
+Marital status,2,verified,married
+Marital status,3,verified,widower
+Marital status,4,verified,divorced
+Marital status,5,verified,facto union
+Marital status,6,verified,legally separated
+Application mode,1,verified,1st phase - general contingent
+Application mode,2,verified,Ordinance No. 612/93
+Application mode,5,verified,1st phase - special contingent (Azores Island)
+Application mode,7,verified,Holders of other higher courses
+Application mode,10,verified,Ordinance No. 854-B/99
+Application mode,15,verified,International student (bachelor)
+Application mode,16,verified,1st phase - special contingent (Madeira Island)
+Application mode,17,verified,2nd phase - general contingent
+Application mode,18,verified,3rd phase - general contingent
+Application mode,27,verified,"Ordinance No. 533-A/99, item b3 (Other Institution)"
+Application mode,39,verified,Over 23 years old
+Application mode,42,verified,Transfer
+Application mode,43,verified,Change of course
+Application mode,44,verified,Technological specialization diploma holders
+Application mode,51,verified,Change of institution/course
+Application mode,53,verified,Short cycle diploma holders
+Application order,1,documented_ordinal,Keep recorded application rank
+Application order,2,documented_ordinal,Keep recorded application rank
+Application order,3,documented_ordinal,Keep recorded application rank
+Application order,4,documented_ordinal,Keep recorded application rank
+Application order,5,documented_ordinal,Keep recorded application rank
+Application order,6,documented_ordinal,Keep recorded application rank
+Course,33,verified,Biofuel Production Technologies
+Course,171,verified,Animation and Multimedia Design
+Course,8014,verified,Social Service (evening attendance)
+Course,9003,verified,Agronomy
+Course,9070,verified,Communication Design
+Course,9085,verified,Veterinary Nursing
+Course,9119,verified,Informatics Engineering
+Course,9130,verified,Equinculture
+Course,9147,verified,Management
+Course,9238,verified,Social Service
+Course,9254,verified,Tourism
+Course,9500,verified,Nursing
+Course,9556,verified,Oral Hygiene
+Course,9670,verified,Advertising and Marketing Management
+Course,9773,verified,Journalism and Communication
+Course,9853,verified,Basic Education
+Course,9991,verified,Management (evening attendance)
+Daytime/evening attendance,0,verified,evening
+Daytime/evening attendance,1,verified,daytime
+Previous qualification,1,verified,Secondary education
+Previous qualification,2,verified,Higher education - bachelor's degree
+Previous qualification,3,verified,Higher education - degree
+Previous qualification,4,verified,Higher education - master's
+Previous qualification,5,verified,Higher education - doctorate
+Previous qualification,6,verified,Frequency of higher education
+Previous qualification,9,verified,12th year of schooling - not completed
+Previous qualification,10,verified,11th year of schooling - not completed
+Previous qualification,12,verified,Other - 11th year of schooling
+Previous qualification,15,verified,10th year of schooling - not completed
+Previous qualification,19,verified,Basic education 3rd cycle (9th/10th/11th year) or equiv.
+Previous qualification,38,verified,Basic education 2nd cycle (6th/7th/8th year) or equiv.
+Previous qualification,39,verified,Technological specialization course
+Previous qualification,40,verified,Higher education - degree (1st cycle)
+Previous qualification,42,verified,Professional higher technical course
+Previous qualification,43,verified,Higher education - master (2nd cycle)
+Nacionality,1,verified,Portuguese
+Nacionality,2,verified,German
+Nacionality,6,verified,Spanish
+Nacionality,11,verified,Italian
+Nacionality,14,verified,English
+Nacionality,17,verified,Lithuanian
+Nacionality,21,verified,Angolan
+Nacionality,22,verified,Cape Verdean
+Nacionality,24,verified,Guinean
+Nacionality,25,verified,Mozambican
+Nacionality,26,verified,Santomean
+Nacionality,41,verified,Brazilian
+Nacionality,62,verified,Romanian
+Nacionality,100,verified,Moldova (Republic of)
+Nacionality,101,verified,Mexican
+Nacionality,103,verified,Ukrainian
+Nacionality,105,verified,Russian
+Nacionality,108,verified,Cuban
+Nacionality,109,verified,Colombian
+Mother's qualification,1,verified,Secondary Education - 12th Year of Schooling or Eq.
+Mother's qualification,2,verified,Higher Education - Bachelor's Degree
+Mother's qualification,3,verified,Higher Education - Degree
+Mother's qualification,4,verified,Higher Education - Master's
+Mother's qualification,5,verified,Higher Education - Doctorate
+Mother's qualification,6,verified,Frequency of Higher Education
+Mother's qualification,9,verified,12th Year of Schooling - Not Completed
+Mother's qualification,10,verified,11th Year of Schooling - Not Completed
+Mother's qualification,11,verified,7th Year (Old)
+Mother's qualification,12,verified,Other - 11th Year of Schooling
+Mother's qualification,14,verified,10th Year of Schooling
+Mother's qualification,18,verified,General commerce course
+Mother's qualification,19,verified,Basic Education 3rd Cycle (9th/10th/11th Year) or Equiv.
+Mother's qualification,22,verified,Technical-professional course
+Mother's qualification,26,verified,7th year of schooling
+Mother's qualification,29,verified,9th Year of Schooling - Not Completed
+Mother's qualification,30,verified,8th year of schooling
+Mother's qualification,34,verified,Unknown
+Mother's qualification,35,verified,Can't read or write
+Mother's qualification,36,verified,Can read without having a 4th year of schooling
+Mother's qualification,37,verified,Basic education 1st cycle (4th/5th year) or equiv.
+Mother's qualification,38,verified,Basic Education 2nd Cycle (6th/7th/8th Year) or Equiv.
+Mother's qualification,39,verified,Technological specialization course
+Mother's qualification,40,verified,Higher education - degree (1st cycle)
+Mother's qualification,41,verified,Specialized higher studies course
+Mother's qualification,42,verified,Professional higher technical course
+Mother's qualification,43,verified,Higher Education - Master (2nd cycle)
+Mother's qualification,44,verified,Higher Education - Doctorate (3rd cycle)
+Father's qualification,1,verified,Secondary Education - 12th Year of Schooling or Eq.
+Father's qualification,2,verified,Higher Education - Bachelor's Degree
+Father's qualification,3,verified,Higher Education - Degree
+Father's qualification,4,verified,Higher Education - Master's
+Father's qualification,5,verified,Higher Education - Doctorate
+Father's qualification,6,verified,Frequency of Higher Education
+Father's qualification,9,verified,12th Year of Schooling - Not Completed
+Father's qualification,10,verified,11th Year of Schooling - Not Completed
+Father's qualification,11,verified,7th Year (Old)
+Father's qualification,12,verified,Other - 11th Year of Schooling
+Father's qualification,13,verified,2nd year complementary high school course
+Father's qualification,14,verified,10th Year of Schooling
+Father's qualification,18,verified,General commerce course
+Father's qualification,19,verified,Basic Education 3rd Cycle (9th/10th/11th Year) or Equiv.
+Father's qualification,22,verified,Technical-professional course
+Father's qualification,25,verified,Complementary High School Course - not concluded
+Father's qualification,26,verified,7th year of schooling
+Father's qualification,29,verified,9th Year of Schooling - Not Completed
+Father's qualification,30,verified,8th year of schooling
+Father's qualification,31,verified,General Course of Administration and Commerce
+Father's qualification,33,verified,Supplementary Accounting and Administration
+Father's qualification,34,verified,Unknown
+Father's qualification,36,verified,Can read without having a 4th year of schooling
+Father's qualification,37,verified,Basic education 1st cycle (4th/5th year) or equiv.
+Father's qualification,38,verified,Basic Education 2nd Cycle (6th/7th/8th Year) or Equiv.
+Father's qualification,39,verified,Technological specialization course
+Father's qualification,40,verified,Higher education - degree (1st cycle)
+Father's qualification,41,verified,Specialized higher studies course
+Father's qualification,43,verified,Higher Education - Master (2nd cycle)
+Mother's occupation,0,verified,Student
+Mother's occupation,1,verified,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers"
+Mother's occupation,2,verified,Specialists in Intellectual and Scientific Activities
+Mother's occupation,3,verified,Intermediate Level Technicians and Professions
+Mother's occupation,4,verified,Administrative staff
+Mother's occupation,5,verified,"Personal Services, Security and Safety Workers and Sellers"
+Mother's occupation,6,verified,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry"
+Mother's occupation,7,verified,"Skilled Workers in Industry, Construction and Craftsmen"
+Mother's occupation,8,verified,Installation and Machine Operators and Assembly Workers
+Mother's occupation,9,verified,Unskilled Workers
+Mother's occupation,10,verified,Armed Forces Professions
+Mother's occupation,90,verified,Other Situation
+Mother's occupation,99,verified,(blank)
+Mother's occupation,122,verified,Health professionals
+Mother's occupation,123,verified,teachers
+Mother's occupation,125,verified,Specialists in information and communication technologies (ICT)
+Mother's occupation,131,verified,Intermediate level science and engineering technicians and professions
+Mother's occupation,132,verified,"Technicians and professionals, of intermediate level of health"
+Mother's occupation,134,verified,"Intermediate level technicians from legal, social, sports, cultural and similar services"
+Mother's occupation,141,verified,"Office workers, secretaries in general and data processing operators"
+Mother's occupation,143,verified,"Data, accounting, statistical, financial services and registry-related operators"
+Mother's occupation,144,verified,Other administrative support staff
+Mother's occupation,151,verified,personal service workers
+Mother's occupation,152,verified,sellers
+Mother's occupation,153,verified,Personal care workers and the like
+Mother's occupation,171,verified,"Skilled construction workers and the like, except electricians"
+Mother's occupation,173,verified,"Skilled workers in printing, precision instrument manufacturing, jewelers, artisans and the like"
+Mother's occupation,175,verified,"Workers in food processing, woodworking, clothing and other industries and crafts"
+Mother's occupation,191,verified,cleaning workers
+Mother's occupation,192,verified,"Unskilled workers in agriculture, animal production, fisheries and forestry"
+Mother's occupation,193,verified,"Unskilled workers in extractive industry, construction, manufacturing and transport"
+Mother's occupation,194,verified,Meal preparation assistants
+Father's occupation,0,verified,Student
+Father's occupation,1,verified,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers"
+Father's occupation,2,verified,Specialists in Intellectual and Scientific Activities
+Father's occupation,3,verified,Intermediate Level Technicians and Professions
+Father's occupation,4,verified,Administrative staff
+Father's occupation,5,verified,"Personal Services, Security and Safety Workers and Sellers"
+Father's occupation,6,verified,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry"
+Father's occupation,7,verified,"Skilled Workers in Industry, Construction and Craftsmen"
+Father's occupation,8,verified,Installation and Machine Operators and Assembly Workers
+Father's occupation,9,verified,Unskilled Workers
+Father's occupation,10,verified,Armed Forces Professions
+Father's occupation,90,verified,Other Situation
+Father's occupation,99,verified,(blank)
+Father's occupation,102,verified,Armed Forces Sergeants
+Father's occupation,103,verified,Other Armed Forces personnel
+Father's occupation,112,verified,Directors of administrative and commercial services
+Father's occupation,114,verified,"Hotel, catering, trade and other services directors"
+Father's occupation,121,verified,"Specialists in the physical sciences, mathematics, engineering and related techniques"
+Father's occupation,122,verified,Health professionals
+Father's occupation,123,verified,teachers
+Father's occupation,124,verified,"Specialists in finance, accounting, administrative organization, public and commercial relations"
+Father's occupation,131,verified,Intermediate level science and engineering technicians and professions
+Father's occupation,132,verified,"Technicians and professionals, of intermediate level of health"
+Father's occupation,134,verified,"Intermediate level technicians from legal, social, sports, cultural and similar services"
+Father's occupation,135,verified,Information and communication technology technicians
+Father's occupation,141,verified,"Office workers, secretaries in general and data processing operators"
+Father's occupation,143,verified,"Data, accounting, statistical, financial services and registry-related operators"
+Father's occupation,144,verified,Other administrative support staff
+Father's occupation,151,verified,personal service workers
+Father's occupation,152,verified,sellers
+Father's occupation,153,verified,Personal care workers and the like
+Father's occupation,163,verified,"Farmers, livestock keepers, fishermen, hunters and gatherers, subsistence"
+Father's occupation,171,verified,"Skilled construction workers and the like, except electricians"
+Father's occupation,172,verified,"Skilled workers in metallurgy, metalworking and similar"
+Father's occupation,175,verified,"Workers in food processing, woodworking, clothing and other industries and crafts"
+Father's occupation,181,verified,Fixed plant and machine operators
+Father's occupation,182,verified,assembly workers
+Father's occupation,183,verified,Vehicle drivers and mobile equipment operators
+Father's occupation,192,verified,"Unskilled workers in agriculture, animal production, fisheries and forestry"
+Father's occupation,193,verified,"Unskilled workers in extractive industry, construction, manufacturing and transport"
+Father's occupation,194,verified,Meal preparation assistants
+Displaced,0,verified,no
+Displaced,1,verified,yes
+Educational special needs,0,verified,no
+Educational special needs,1,verified,yes
+Debtor,0,verified,no
+Debtor,1,verified,yes
+Tuition fees up to date,0,verified,no
+Tuition fees up to date,1,verified,yes
+Gender,0,verified,female
+Gender,1,verified,male
+Scholarship holder,0,verified,no
+Scholarship holder,1,verified,yes
+International,0,verified,no
+International,1,verified,yes

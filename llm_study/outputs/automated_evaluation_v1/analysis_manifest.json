@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-10-10T12:09:11.858505+00:00",
+  "analysis_type": "post_hoc_automated",
+  "original_protocol_sha256": "b19e9f81939fc4ddf9cba902388ba02bdbea456e11b4ba70fb7c9137a46f20a0",
+  "script_sha256": "57da80fef4dc10f1c25ed9d34e76d3c2c77d4f223c336f264ad3d9437140d20e",
+  "sources_sha256": {
+    "llm": "24cf6a6f1beb9f4a65e39dd1872600138665f4d41dec7bf5764d093ee9d6e851",
+    "prompts": "26b6b5eaf110831c04ed3e5b0a6ed029acf4933b6b3b2a4244d98a30b14af576",
+    "template": "facd372e12a7d1a665ea71f79f3916f598703d49e208175c859acbc84ed05a66"
+  },
+  "limitations": "Post-hoc exploratory automated evaluation chosen after inspection of the test explanations. The original human-review protocol remains unchanged; no human ratings were collected. No clarity, usefulness, educational benefit or semantic factual-accuracy claim. Probability extraction and feature-name mentions are lexical screens, not semantic validation; unresolved cases remain in denominators, not counted as proven errors or silently dropped. Decoded-value and direction fidelity are not established by these screens. Tests use 442 student-level means, with all three stages retained. 2000 paired student bootstrap resamples, seed 123, percentile 95% intervals for mean differences. Exact two-sided sign tests evaluate positive/negative balance among nonzero student differences, NOT zero mean; ties are reported. Holm correction across three exploratory tests. Inference assumes students are independent draws from a relevant population; intervals do not establish external validity. Sparse failures can yield unstable percentile intervals. Shorter text is not automatically clearer. No inferential tests on lexical screens. Failed/empty outputs, if any, retain zero word counts and must be reported separately.",
+  "software": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.2"
+  }
+}

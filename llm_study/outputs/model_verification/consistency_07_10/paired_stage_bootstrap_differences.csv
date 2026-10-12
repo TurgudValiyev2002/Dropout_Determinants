@@ -1,0 +1,7 @@
+comparison,metric,difference,ci_low,ci_high
+B_first_semester minus A_pre_enrollment,macro_f1,0.11224640675403197,0.06268125851684012,0.16083604352746925
+B_first_semester minus A_pre_enrollment,balanced_accuracy,0.10714465305301446,0.055227779042202906,0.1575500621052084
+B_first_semester minus A_pre_enrollment,log_loss,-0.21436126992705662,-0.27353242818895096,-0.15440280813629279
+C_second_semester minus B_first_semester,macro_f1,0.01569770709840146,-0.025750879319221452,0.05703187279481067
+C_second_semester minus B_first_semester,balanced_accuracy,0.01399657467112081,-0.030205022364792618,0.0570546745525116
+C_second_semester minus B_first_semester,log_loss,-0.04196709275858501,-0.08471891602941659,4.178921562669261e-05

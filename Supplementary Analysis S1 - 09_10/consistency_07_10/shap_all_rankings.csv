@@ -1,0 +1,115 @@
+specification,feature,mean_abs_shap
+A_pre_enrollment,Tuition fees up to date,0.4097172293332953
+A_pre_enrollment,Age at enrollment,0.261228245583728
+A_pre_enrollment,Scholarship holder,0.20307555196387828
+A_pre_enrollment,Course,0.15798222620346025
+A_pre_enrollment,Gender,0.12207087539032264
+A_pre_enrollment,Unemployment rate,0.11335142597752049
+A_pre_enrollment,Application mode,0.11224521916584211
+A_pre_enrollment,Admission grade,0.08017627733269027
+A_pre_enrollment,Application order,0.07852241630891055
+A_pre_enrollment,Mother's qualification,0.0724714800405056
+A_pre_enrollment,Mother's occupation,0.06781223343886814
+A_pre_enrollment,Previous qualification (grade),0.06302387942146408
+A_pre_enrollment,Father's occupation,0.05790778027338829
+A_pre_enrollment,GDP,0.05748059491192972
+A_pre_enrollment,Inflation rate,0.04751044199176689
+A_pre_enrollment,Displaced,0.044192147343131226
+A_pre_enrollment,Father's qualification,0.03839750574027813
+A_pre_enrollment,Debtor,0.0355559367326103
+A_pre_enrollment,Previous qualification,0.014897877411391936
+A_pre_enrollment,Marital status,0.010823439627997604
+A_pre_enrollment,Daytime/evening attendance,0.004703397643557546
+A_pre_enrollment,Nacionality,0.0025113257413827248
+A_pre_enrollment,Educational special needs,0.0006258339037550013
+A_pre_enrollment,International,0.0
+B_first_semester,Curricular units 1st sem (approved),0.71145387753174
+B_first_semester,Tuition fees up to date,0.36243977936701627
+B_first_semester,Age at enrollment,0.17407620316983702
+B_first_semester,Curricular units 1st sem (grade),0.1514675385052492
+B_first_semester,Unemployment rate,0.11465062332539354
+B_first_semester,Curricular units 1st sem (enrolled),0.10443526386424447
+B_first_semester,Course,0.09635305368597052
+B_first_semester,Gender,0.09487496902760842
+B_first_semester,Scholarship holder,0.07996918766243576
+B_first_semester,Displaced,0.0775379725387006
+B_first_semester,Admission grade,0.06921152322703644
+B_first_semester,Father's occupation,0.05969583827598816
+B_first_semester,Curricular units 1st sem (credited),0.05850381494772258
+B_first_semester,Application order,0.05593427468712343
+B_first_semester,GDP,0.05415383237275667
+B_first_semester,Application mode,0.053399712881458984
+B_first_semester,Previous qualification (grade),0.04556741699188095
+B_first_semester,Debtor,0.042608504874838395
+B_first_semester,Curricular units 1st sem (evaluations),0.04251044563401019
+B_first_semester,Mother's occupation,0.038187741252280694
+B_first_semester,Mother's qualification,0.035487367366453304
+B_first_semester,Inflation rate,0.026107678566427643
+B_first_semester,Father's qualification,0.013137610667548366
+B_first_semester,Previous qualification,0.007799052773784621
+B_first_semester,Marital status,0.005673613249896516
+B_first_semester,Daytime/evening attendance,0.003305917600464279
+B_first_semester,Curricular units 1st sem (without evaluations),0.002745510465035452
+B_first_semester,Nacionality,0.0
+B_first_semester,International,0.0
+B_first_semester,Educational special needs,0.0
+C_second_semester,Curricular units 2nd sem (approved),0.6855594271663394
+C_second_semester,Tuition fees up to date,0.39266878384053056
+C_second_semester,Curricular units 2nd sem (grade),0.18779896959844003
+C_second_semester,Age at enrollment,0.18638539179746907
+C_second_semester,Course,0.11084706524720565
+C_second_semester,Unemployment rate,0.1085944585420728
+C_second_semester,Curricular units 2nd sem (enrolled),0.10829211278447679
+C_second_semester,Application order,0.10282576934512688
+C_second_semester,Curricular units 1st sem (approved),0.10244504433565878
+C_second_semester,Displaced,0.10120375519915
+C_second_semester,Admission grade,0.08938537918039956
+C_second_semester,Curricular units 2nd sem (evaluations),0.07650358202272019
+C_second_semester,GDP,0.07356431595099924
+C_second_semester,Father's occupation,0.07218366123587211
+C_second_semester,Curricular units 1st sem (grade),0.059291936845645016
+C_second_semester,Debtor,0.05758937209871398
+C_second_semester,Previous qualification (grade),0.057262611709061995
+C_second_semester,Curricular units 1st sem (enrolled),0.05348161103978058
+C_second_semester,Application mode,0.05241747728852166
+C_second_semester,Curricular units 1st sem (evaluations),0.05100816482503925
+C_second_semester,Mother's qualification,0.05029685600050936
+C_second_semester,Scholarship holder,0.043226889732584296
+C_second_semester,Gender,0.0431338054564281
+C_second_semester,Curricular units 2nd sem (credited),0.03415513628063049
+C_second_semester,Inflation rate,0.03375482808389063
+C_second_semester,Mother's occupation,0.03322238786436394
+C_second_semester,Father's qualification,0.013000814083322192
+C_second_semester,Curricular units 1st sem (credited),0.01099323425469351
+C_second_semester,Curricular units 2nd sem (without evaluations),0.006514861276016928
+C_second_semester,Previous qualification,0.005713101385485445
+C_second_semester,Marital status,0.004729755182268809
+C_second_semester,Daytime/evening attendance,0.002625061108115604
+C_second_semester,Nacionality,0.0017636853949431536
+C_second_semester,Curricular units 1st sem (without evaluations),0.001574971750036675
+C_second_semester,Educational special needs,0.0
+C_second_semester,International,0.0
+academic_financial,Curricular units 2nd sem (approved),0.8623234044105814
+academic_financial,Tuition fees up to date,0.3589269294470971
+academic_financial,Age at enrollment,0.2055472856032775
+academic_financial,Displaced,0.168891570943175
+academic_financial,Curricular units 2nd sem (enrolled),0.16262509570762076
+academic_financial,Admission grade,0.13227040996660971
+academic_financial,Curricular units 1st sem (approved),0.12436581068060266
+academic_financial,Curricular units 2nd sem (grade),0.1224928811015109
+academic_financial,Curricular units 2nd sem (evaluations),0.09529432708020759
+academic_financial,Previous qualification (grade),0.09455918250855178
+academic_financial,Curricular units 1st sem (grade),0.08365903342789605
+academic_financial,Curricular units 1st sem (enrolled),0.0797121923244677
+academic_financial,Curricular units 1st sem (evaluations),0.07416130180399874
+academic_financial,Debtor,0.05301469894007985
+academic_financial,Curricular units 2nd sem (credited),0.05054681493671734
+academic_financial,Scholarship holder,0.045429389929599766
+academic_financial,Gender,0.01961463052212635
+academic_financial,Curricular units 1st sem (credited),0.01104123863420657
+academic_financial,Curricular units 2nd sem (without evaluations),0.010449294427845727
+academic_financial,Marital status,0.008414861674098885
+academic_financial,Nacionality,0.005534621429367392
+academic_financial,Curricular units 1st sem (without evaluations),0.0037229907937286104
+academic_financial,International,0.000382492555600166
+academic_financial,Educational special needs,0.0

@@ -1,0 +1,66 @@
+{
+  "version": "final_v2",
+  "created_utc": "2026-10-09T12:01:22.325795+00:00",
+  "settings": {
+    "enable_thinking": false,
+    "do_sample": false,
+    "max_new_tokens": 512,
+    "seed": 123,
+    "dtype": "bfloat16",
+    "attention": "eager",
+    "device_map": "balanced",
+    "word_limit": 120
+  },
+  "question": "Does an LLM produce clearer, useful explanations than a fixed template while preserving the same model evidence?",
+  "n_students": 442,
+  "n_explanations_per_method": 1326,
+  "stages": {
+    "A_pre_enrollment": "Pre-enrollment",
+    "B_first_semester": "First-semester",
+    "C_second_semester": "Second-semester"
+  },
+  "chunks": 6,
+  "cases_per_chunk": 221,
+  "selection": "All test students, all three stages; no case exclusion by outcome, confidence, sensitive features or generation quality.",
+  "contributors": "Up to two largest positive and one largest-magnitude negative Dropout SHAP contributions; ties by original feature name. Same decoded facts in both arms. Baseline/final raw score/remainder retained only in audit files, not writer input.",
+  "failure_policy": "One generation attempt per case. Save empty, overlength, truncated and failed responses. Resume only cases with no saved record after technical interruption; never retry an existing saved case or select among outputs.",
+  "human_review_plan": {
+    "student_sample_size": 60,
+    "selection": "Smallest SHA256(123:student_key), fixed before inference, all three stages: 180 pairs",
+    "raters_required": "At least two independent educational advisers or qualified education researchers; not yet recruited/confirmed",
+    "blinding": "Method labels hidden, randomized A/B order per pair; audit integrity separately with supplied evidence. Keep mapping private.",
+    "ratings": "Clarity and practical usefulness separately on anchored 1–5 scales; preferred explanation A/B/tie; contributor/value/direction omissions, numerical errors, unsupported claims, causal/probability confusion and missing safeguards as separate flags.",
+    "clarity_anchors": {
+      "1": "Very difficult to understand or misleading",
+      "2": "Substantial interpretation needed",
+      "3": "Understandable with some effort",
+      "4": "Clear with minor issues",
+      "5": "Immediately clear and unambiguous"
+    },
+    "usefulness_anchors": {
+      "1": "Not useful for understanding this model output",
+      "2": "Limited useful information",
+      "3": "Moderately useful",
+      "4": "Useful for interpreting the supplied model evidence",
+      "5": "Highly useful while preserving limitations; not a rating of intervention effectiveness"
+    },
+    "A_B_order_rule": "LLM is A if the first hexadecimal digit of SHA256('123:blind:'+case_id) is even; otherwise template is A. Mapping retained privately, not given to raters.",
+    "primary_endpoint": "Mean paired LLM-minus-template clarity difference on preselected 60 students, averaging raters then three stages within student.",
+    "secondary_endpoints": "Usefulness difference, preference/tie proportions, error/omission rates, per-stage results and subgroup descriptive checks.",
+    "inference": "2000 paired student-cluster bootstrap resamples, seed 123, percentile 95% intervals. Resample students, retaining their stages and method pairs. Stage-specific results secondary; no independent-sample analysis of 1326 records.",
+    "missingness": "Report recruitment/completion and every missing rating or generation. Never call a missing/failed output correct. Primary clarity comparison uses students with all planned paired ratings; report denominator and sensitivity summaries for all available pairs and generation failure rates."
+  },
+  "limits": [
+    "Prompt revised on validation pilot only; no further pilot requested. No guarantee of final compliance.",
+    "The prediction benchmark/test set was previously examined; this is held-out explanation evaluation relative to prompt development, not a new independent predictive validation.",
+    "This is verbalization of deterministically decoded and direction-labelled evidence, not an LLM test of inferring SHAP signs from scratch. Public-dataset exposure during LLM pretraining cannot be ruled out.",
+    "No claims of causality, improved retention, intervention effectiveness, predictive accuracy gains, calibrated risk or distance-education validity.",
+    "Automatic text checks are screening, not proof of semantic correctness; human evaluation is required for clarity/usefulness claims."
+  ],
+  "inputs_sha256": {
+    "test_evidence": "9e72689cfea22653f1437b9b68cefe699dd7463d522e5443307bd6b90844f88f",
+    "codebook": "6057bb5865e75b564fe3c8dd986f50db0a9386f5b2a4ea93fa88e728510f9204",
+    "manifest": "7f8a98b67793d7110db16cd5522ed13962a7eb400d7dc36e6e6723afccb834f6"
+  },
+  "runner_sha256": "2a9a204885b0a9866ea0969c2a4cc82f7319d141a77ab9885ec80bdef3b164f8"
+}

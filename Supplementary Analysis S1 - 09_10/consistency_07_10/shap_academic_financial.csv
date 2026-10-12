@@ -1,0 +1,25 @@
+specification,feature,mean_abs_shap
+academic_financial,Curricular units 2nd sem (approved),0.8623234044105814
+academic_financial,Tuition fees up to date,0.3589269294470971
+academic_financial,Age at enrollment,0.2055472856032775
+academic_financial,Displaced,0.168891570943175
+academic_financial,Curricular units 2nd sem (enrolled),0.16262509570762076
+academic_financial,Admission grade,0.13227040996660971
+academic_financial,Curricular units 1st sem (approved),0.12436581068060266
+academic_financial,Curricular units 2nd sem (grade),0.1224928811015109
+academic_financial,Curricular units 2nd sem (evaluations),0.09529432708020759
+academic_financial,Previous qualification (grade),0.09455918250855178
+academic_financial,Curricular units 1st sem (grade),0.08365903342789605
+academic_financial,Curricular units 1st sem (enrolled),0.0797121923244677
+academic_financial,Curricular units 1st sem (evaluations),0.07416130180399874
+academic_financial,Debtor,0.05301469894007985
+academic_financial,Curricular units 2nd sem (credited),0.05054681493671734
+academic_financial,Scholarship holder,0.045429389929599766
+academic_financial,Gender,0.01961463052212635
+academic_financial,Curricular units 1st sem (credited),0.01104123863420657
+academic_financial,Curricular units 2nd sem (without evaluations),0.010449294427845727
+academic_financial,Marital status,0.008414861674098885
+academic_financial,Nacionality,0.005534621429367392
+academic_financial,Curricular units 1st sem (without evaluations),0.0037229907937286104
+academic_financial,International,0.000382492555600166
+academic_financial,Educational special needs,0.0

@@ -1,0 +1,10 @@
+{
+  "protocol_sha256": "b19e9f81939fc4ddf9cba902388ba02bdbea456e11b4ba70fb7c9137a46f20a0",
+  "model_path": "/home/turgud.valiyev/rdcc-distillation/models/nemotron_3_5_lightning_bf16",
+  "model_metadata_sha256": {
+    "config.json": "a3827a0f5e311547b40943dc081e3ff2f8a277466e8c1a3df2291e8db8a7617c",
+    "tokenizer_config.json": "10f93eabcb9b1602fbb991d6308e787ce1df28ee9cd7a1c6d1e8c3f338b957bc",
+    "chat_template.jinja": "58933db77d3099b4f78c55a38347a72e1ea05b97d6bd8f38775303dc0194e0a9",
+    "model.safetensors.index.json": "67f21da80ce245a3e24967f54eef3fa10e67a63eba16ef19a2d0569f06103f50"
+  }
+}

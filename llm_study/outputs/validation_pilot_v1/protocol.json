@@ -1,0 +1,37 @@
+{
+  "purpose": "Development pilot, NOT final scientific evaluation",
+  "created_utc": "2026-10-09T11:25:31.255171+00:00",
+  "research_question": "Can an LLM explain student-risk predictions more clearly than a fixed template while remaining faithful to the same evidence?",
+  "stage": "B_first_semester",
+  "seed": 123,
+  "n": 20,
+  "quotas_by_PREDICTED_class": {
+    "Dropout": 8,
+    "Enrolled": 6,
+    "Graduate": 6
+  },
+  "selection": "Within predicted class, sort SHA256 of '123:case_id'; take quota. Never use actual outcomes.",
+  "generalization_warning": "Deliberately balanced pilot; not representative of population prevalence and not evidence of predictive improvement.",
+  "shared_evidence": "Two largest positive and one largest-magnitude negative Dropout contributors, when available; identical evidence in both arms. Other contributions retained as a scalar remainder.",
+  "length": "Both arms limited to 120 words; record realized length and inspect imbalance before final evaluation.",
+  "planned_inference": {
+    "enable_thinking": false,
+    "do_sample": false,
+    "max_new_tokens": 512,
+    "seed": 123
+  },
+  "checks_before_final_run": [
+    "Inspect numerical accuracy, contributor coverage/direction, category decoding, and invented claims.",
+    "Check outcome-time errors, causal/intervention claims, sensitive-attribute stereotyping, and financial-timing caveat.",
+    "Review clarity and usefulness; record failed, empty, overlength, or truncated outputs without silently dropping them.",
+    "Pilot ratings are developmental. Freeze the revised protocol before any test-case inference.",
+    "Final human review should hide method labels and randomize order; a separate script will prepare it.",
+    "Do not treat a successful pilot as evidence of improved retention, causality, or distance-education validity."
+  ],
+  "inputs": {
+    "validation_sha256": "af1eadbc915426aff3d44aef7aab268ccb024d343a92681237e696c8c0afb9cd",
+    "manifest_sha256": "7f8a98b67793d7110db16cd5522ed13962a7eb400d7dc36e6e6723afccb834f6",
+    "codebook_sha256": "6057bb5865e75b564fe3c8dd986f50db0a9386f5b2a4ea93fa88e728510f9204",
+    "script_sha256": "1bd7b25900776a4db5a0edbb89563daf147cae4a759999f35c32752ccd37d518"
+  }
+}

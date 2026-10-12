@@ -1,0 +1,31 @@
+specification,feature,mean_abs_shap
+B_first_semester,Curricular units 1st sem (approved),0.71145387753174
+B_first_semester,Tuition fees up to date,0.36243977936701627
+B_first_semester,Age at enrollment,0.17407620316983702
+B_first_semester,Curricular units 1st sem (grade),0.1514675385052492
+B_first_semester,Unemployment rate,0.11465062332539354
+B_first_semester,Curricular units 1st sem (enrolled),0.10443526386424447
+B_first_semester,Course,0.09635305368597052
+B_first_semester,Gender,0.09487496902760842
+B_first_semester,Scholarship holder,0.07996918766243576
+B_first_semester,Displaced,0.0775379725387006
+B_first_semester,Admission grade,0.06921152322703644
+B_first_semester,Father's occupation,0.05969583827598816
+B_first_semester,Curricular units 1st sem (credited),0.05850381494772258
+B_first_semester,Application order,0.05593427468712343
+B_first_semester,GDP,0.05415383237275667
+B_first_semester,Application mode,0.053399712881458984
+B_first_semester,Previous qualification (grade),0.04556741699188095
+B_first_semester,Debtor,0.042608504874838395
+B_first_semester,Curricular units 1st sem (evaluations),0.04251044563401019
+B_first_semester,Mother's occupation,0.038187741252280694
+B_first_semester,Mother's qualification,0.035487367366453304
+B_first_semester,Inflation rate,0.026107678566427643
+B_first_semester,Father's qualification,0.013137610667548366
+B_first_semester,Previous qualification,0.007799052773784621
+B_first_semester,Marital status,0.005673613249896516
+B_first_semester,Daytime/evening attendance,0.003305917600464279
+B_first_semester,Curricular units 1st sem (without evaluations),0.002745510465035452
+B_first_semester,Nacionality,0.0
+B_first_semester,International,0.0
+B_first_semester,Educational special needs,0.0

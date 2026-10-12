@@ -1,0 +1,3 @@
+# Frozen protocols and source hashes require byte-identical checkouts on Windows.
+llm_study/** -text
+"Supplementary Analysis S1 - 09_10/**" -text

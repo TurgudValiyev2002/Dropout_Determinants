@@ -1,0 +1,8 @@
+stage,method,probability_screen,explanations
+A_pre_enrollment,llm,matched,442
+A_pre_enrollment,template,matched,442
+B_first_semester,llm,matched,441
+B_first_semester,llm,unresolved,1
+B_first_semester,template,matched,442
+C_second_semester,llm,matched,442
+C_second_semester,template,matched,442

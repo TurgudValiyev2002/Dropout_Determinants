@@ -1,0 +1,37 @@
+specification,feature,mean_abs_shap
+C_second_semester,Curricular units 2nd sem (approved),0.6855594271663394
+C_second_semester,Tuition fees up to date,0.39266878384053056
+C_second_semester,Curricular units 2nd sem (grade),0.18779896959844003
+C_second_semester,Age at enrollment,0.18638539179746907
+C_second_semester,Course,0.11084706524720565
+C_second_semester,Unemployment rate,0.1085944585420728
+C_second_semester,Curricular units 2nd sem (enrolled),0.10829211278447679
+C_second_semester,Application order,0.10282576934512688
+C_second_semester,Curricular units 1st sem (approved),0.10244504433565878
+C_second_semester,Displaced,0.10120375519915
+C_second_semester,Admission grade,0.08938537918039956
+C_second_semester,Curricular units 2nd sem (evaluations),0.07650358202272019
+C_second_semester,GDP,0.07356431595099924
+C_second_semester,Father's occupation,0.07218366123587211
+C_second_semester,Curricular units 1st sem (grade),0.059291936845645016
+C_second_semester,Debtor,0.05758937209871398
+C_second_semester,Previous qualification (grade),0.057262611709061995
+C_second_semester,Curricular units 1st sem (enrolled),0.05348161103978058
+C_second_semester,Application mode,0.05241747728852166
+C_second_semester,Curricular units 1st sem (evaluations),0.05100816482503925
+C_second_semester,Mother's qualification,0.05029685600050936
+C_second_semester,Scholarship holder,0.043226889732584296
+C_second_semester,Gender,0.0431338054564281
+C_second_semester,Curricular units 2nd sem (credited),0.03415513628063049
+C_second_semester,Inflation rate,0.03375482808389063
+C_second_semester,Mother's occupation,0.03322238786436394
+C_second_semester,Father's qualification,0.013000814083322192
+C_second_semester,Curricular units 1st sem (credited),0.01099323425469351
+C_second_semester,Curricular units 2nd sem (without evaluations),0.006514861276016928
+C_second_semester,Previous qualification,0.005713101385485445
+C_second_semester,Marital status,0.004729755182268809
+C_second_semester,Daytime/evening attendance,0.002625061108115604
+C_second_semester,Nacionality,0.0017636853949431536
+C_second_semester,Curricular units 1st sem (without evaluations),0.001574971750036675
+C_second_semester,Educational special needs,0.0
+C_second_semester,International,0.0

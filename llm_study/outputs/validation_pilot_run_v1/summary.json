@@ -1,0 +1,9 @@
+{
+  "records": 20,
+  "statuses": {
+    "generated": 20
+  },
+  "over_word_limit": 1,
+  "token_limit_reached": 0,
+  "quality_status": "Not yet assessed; generated does NOT mean factually correct or scientifically validated"
+}

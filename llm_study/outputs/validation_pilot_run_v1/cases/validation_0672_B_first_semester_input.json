@@ -1,0 +1,55 @@
+{
+  "case_id": "validation_0672_B_first_semester",
+  "evidence": {
+    "case_id": "validation_0672_B_first_semester",
+    "feature_window": "First-semester feature specification; financial measurement timing uncertain",
+    "outcome_time": "At the end of the normal duration of the course; semester specifies the feature window, NOT the outcome deadline.",
+    "predicted_class": "Dropout",
+    "model_probabilities_percent": {
+      "Dropout": 95.0,
+      "Enrolled": 4.3,
+      "Graduate": 0.7
+    },
+    "selected_contributors": [
+      {
+        "feature": "Curricular units 1st sem (approved)",
+        "recorded_value": 0,
+        "decoded_value": "0",
+        "decoding_status": "numeric",
+        "dropout_raw_score_contribution": 1.7081030159520543,
+        "direction": "raises"
+      },
+      {
+        "feature": "Curricular units 1st sem (grade)",
+        "recorded_value": 0.0,
+        "decoded_value": "0 on the documented 0–20 scale",
+        "decoding_status": "numeric",
+        "dropout_raw_score_contribution": 0.30687480661094435,
+        "direction": "raises"
+      },
+      {
+        "feature": "Tuition fees up to date",
+        "recorded_value": 1,
+        "decoded_value": "yes",
+        "decoding_status": "verified_code",
+        "dropout_raw_score_contribution": -0.23022791981108887,
+        "direction": "lowers"
+      }
+    ],
+    "dropout_shap_baseline": -1.3153621241526836,
+    "dropout_raw_score": 1.2201845643972853,
+    "unshown_contributions_sum": 0.7507967857980615,
+    "shap_units": "Dropout raw-score units, NOT percentage points",
+    "probability_note": "Percentages rounded independently to one decimal place; totals may differ slightly from 100%."
+  },
+  "messages": [
+    {
+      "role": "system",
+      "content": "You explain student-outcome model predictions to university advisers.\nUse only the supplied evidence and write clear, respectful English.\nExplain the model prediction, not the student's actual outcome.\nThe model uses first-semester features to predict the outcome at the end of the normal course duration. Do not say graduation or dropout occurs at the end of the first semester.\nProbabilities are uncalibrated estimates, not certainties.\nAll SHAP contributions provided here explain only the Dropout class raw score. They do not directly explain the other class scores, change probabilities by that amount, establish causes, or demonstrate intervention benefits.\nA positive contribution raises the Dropout raw score relative to its baseline; a negative contribution lowers it.\nThe supplied contributions are a selected subset, not the complete explanation. Unshown contributions are summarized separately.\nTreat each contribution as belonging to the supplied recorded feature value. Do not claim what changing that value would do, or infer a general trend from one observation.\nDo not invent motives, finances, family circumstances, meanings of undocumented codes, or additional facts. Do not infer why a student obtained a grade.\nUnknown or blank code labels mean the category meaning is unknown or blank, not that its raw value was absent.\nFinancial measurement timing is uncertain; do not claim these records establish a prospectively available early-warning system.\nDo not recommend actions, stereotype students, or describe them as failures.\nWrite two or three short paragraphs, no more than 120 words. State the predicted category and all three probabilities, describe every selected contributor with its recorded value and direction, and acknowledge uncertainty and non-causality. Avoid raw-score arithmetic in the prose; contributions are available as evidence, not percentage-point effects.\nInclude this brief limitation: financial-record timing is uncertain.\n"
+    },
+    {
+      "role": "user",
+      "content": "Explain the following recorded model evidence.\n{\"case_id\": \"validation_0672_B_first_semester\", \"feature_window\": \"First-semester feature specification; financial measurement timing uncertain\", \"outcome_time\": \"At the end of the normal duration of the course; semester specifies the feature window, NOT the outcome deadline.\", \"predicted_class\": \"Dropout\", \"model_probabilities_percent\": {\"Dropout\": 95.0, \"Enrolled\": 4.3, \"Graduate\": 0.7}, \"selected_contributors\": [{\"feature\": \"Curricular units 1st sem (approved)\", \"recorded_value\": 0, \"decoded_value\": \"0\", \"decoding_status\": \"numeric\", \"dropout_raw_score_contribution\": 1.7081030159520543, \"direction\": \"raises\"}, {\"feature\": \"Curricular units 1st sem (grade)\", \"recorded_value\": 0.0, \"decoded_value\": \"0 on the documented 0–20 scale\", \"decoding_status\": \"numeric\", \"dropout_raw_score_contribution\": 0.30687480661094435, \"direction\": \"raises\"}, {\"feature\": \"Tuition fees up to date\", \"recorded_value\": 1, \"decoded_value\": \"yes\", \"decoding_status\": \"verified_code\", \"dropout_raw_score_contribution\": -0.23022791981108887, \"direction\": \"lowers\"}], \"dropout_shap_baseline\": -1.3153621241526836, \"dropout_raw_score\": 1.2201845643972853, \"unshown_contributions_sum\": 0.7507967857980615, \"shap_units\": \"Dropout raw-score units, NOT percentage points\", \"probability_note\": \"Percentages rounded independently to one decimal place; totals may differ slightly from 100%.\"}"
+    }
+  ]
+}

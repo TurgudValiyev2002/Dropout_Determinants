@@ -1,0 +1,8 @@
+{
+  "pilot_prompts.jsonl": "921ea7679f58b7d4bed0bc4bffbdae1d999b9a2174bb69d4c6d5def561d3d344",
+  "protocol.json": "504728a951e5387ed46b2859ea4e81df4809239d443e48dfb59a2abe281a8dd0",
+  "selected_cases.csv": "fa68e1f064535999e411e9eaf8823681edb94d1251c9799956bd4701a2561173",
+  "selected_evidence_audit.csv": "681dab2f2336b1cb07613ac5aa86c7cacc003cefe7cc9fdc122a32a79f3148b1",
+  "system_prompt.txt": "7d99382cf4e172275c59bc684141dabc809fd1080eab96c2bc82cbd1db2afdb5",
+  "template_explanations.jsonl": "a92955d6670389ee107939173dd621cf508ac200d17e793d294df3468dfa76cc"
+}

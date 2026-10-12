@@ -1,0 +1,18 @@
+{
+  "protocol_sha256": "b19e9f81939fc4ddf9cba902388ba02bdbea456e11b4ba70fb7c9137a46f20a0",
+  "students": 60,
+  "pairs": 180,
+  "source_sha256": {
+    "answers": "24cf6a6f1beb9f4a65e39dd1872600138665f4d41dec7bf5764d093ee9d6e851",
+    "prompts": "26b6b5eaf110831c04ed3e5b0a6ed029acf4933b6b3b2a4244d98a30b14af576",
+    "templates": "facd372e12a7d1a665ea71f79f3916f598703d49e208175c859acbc84ed05a66"
+  },
+  "pack_files_sha256": {
+    "private_DO_NOT_SHARE/method_key.csv": "275c1abf39ca1ba2dc35ecafa026b13e0c461eb9c658098e3c7b9fbdfb20470b",
+    "reviewer_files/01_explanations.html": "d7a20c7739c5c0b45fbb181408bffb63c1da9055e83cc17e1e861624d17342ef",
+    "reviewer_files/02_factual_audit.html": "0f5df21739edcae921815d6664d28c47062449ef5aab24d458501219dfd0ed43",
+    "reviewer_files/ratings_R1.csv": "fe0bbd501a314faa9d5e8cc23902bcd64e8aab6674b07a5dd529625514ecfbf9",
+    "reviewer_files/ratings_R2.csv": "cbcae487c63d1f4d69d2f8750675e36b526e61653878ed30dd731951645ccb5b"
+  },
+  "limitations": "Labels are hidden, but writing style may reveal methods. No ratings are inferred or fabricated."
+}

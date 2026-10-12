@@ -1,0 +1,6 @@
+{
+  "k": 3,
+  "mean_pairwise_ari": 0.9998857488445698,
+  "min_pairwise_ari": 0.999112513346212,
+  "n_initializations": 30
+}

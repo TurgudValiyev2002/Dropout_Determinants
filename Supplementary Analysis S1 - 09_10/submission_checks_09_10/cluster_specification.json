@@ -1,0 +1,27 @@
+{
+  "features": [
+    "Tuition fees up to date",
+    "Debtor",
+    "Scholarship holder",
+    "Age at enrollment",
+    "Displaced",
+    "Gender",
+    "Course",
+    "Application mode",
+    "Admission grade",
+    "Previous qualification (grade)",
+    "Curricular units 1st sem (enrolled)",
+    "Curricular units 1st sem (evaluations)",
+    "Curricular units 1st sem (approved)",
+    "Curricular units 1st sem (grade)",
+    "Curricular units 1st sem (without evaluations)",
+    "Curricular units 2nd sem (enrolled)",
+    "Curricular units 2nd sem (evaluations)",
+    "Curricular units 2nd sem (approved)",
+    "Curricular units 2nd sem (grade)",
+    "Curricular units 2nd sem (without evaluations)"
+  ],
+  "selected_k": 3,
+  "criterion": "maximum silhouette among k=2,...,8",
+  "preprocessing": "training on all observations for descriptive clustering only; standard numeric scaling and one-hot categories"
+}

@@ -17,3 +17,15 @@ desktop.ini
 *.tmp
 *.temp
 ~$*.docx
+
+# Manuscripts are maintained outside Git; do not add new Word papers.
+*.doc
+*.docx
+*.docm
+*.odt
+*.rtf
+
+# GPU compilation caches and local experiment locks are not research outputs.
+runtime_cache/
+*.lock
+.review/

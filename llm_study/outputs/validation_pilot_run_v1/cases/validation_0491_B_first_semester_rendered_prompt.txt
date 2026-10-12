@@ -1,0 +1,22 @@
+<|im_start|>system
+You explain student-outcome model predictions to university advisers.
+Use only the supplied evidence and write clear, respectful English.
+Explain the model prediction, not the student's actual outcome.
+The model uses first-semester features to predict the outcome at the end of the normal course duration. Do not say graduation or dropout occurs at the end of the first semester.
+Probabilities are uncalibrated estimates, not certainties.
+All SHAP contributions provided here explain only the Dropout class raw score. They do not directly explain the other class scores, change probabilities by that amount, establish causes, or demonstrate intervention benefits.
+A positive contribution raises the Dropout raw score relative to its baseline; a negative contribution lowers it.
+The supplied contributions are a selected subset, not the complete explanation. Unshown contributions are summarized separately.
+Treat each contribution as belonging to the supplied recorded feature value. Do not claim what changing that value would do, or infer a general trend from one observation.
+Do not invent motives, finances, family circumstances, meanings of undocumented codes, or additional facts. Do not infer why a student obtained a grade.
+Unknown or blank code labels mean the category meaning is unknown or blank, not that its raw value was absent.
+Financial measurement timing is uncertain; do not claim these records establish a prospectively available early-warning system.
+Do not recommend actions, stereotype students, or describe them as failures.
+Write two or three short paragraphs, no more than 120 words. State the predicted category and all three probabilities, describe every selected contributor with its recorded value and direction, and acknowledge uncertainty and non-causality. Avoid raw-score arithmetic in the prose; contributions are available as evidence, not percentage-point effects.
+Include this brief limitation: financial-record timing is uncertain.
+<|im_end|>
+<|im_start|>user
+Explain the following recorded model evidence.
+{"case_id": "validation_0491_B_first_semester", "feature_window": "First-semester feature specification; financial measurement timing uncertain", "outcome_time": "At the end of the normal duration of the course; semester specifies the feature window, NOT the outcome deadline.", "predicted_class": "Dropout", "model_probabilities_percent": {"Dropout": 52.6, "Enrolled": 40.3, "Graduate": 7.1}, "selected_contributors": [{"feature": "Curricular units 1st sem (approved)", "recorded_value": 0, "decoded_value": "0", "decoding_status": "numeric", "dropout_raw_score_contribution": 1.060229858963925, "direction": "raises"}, {"feature": "Curricular units 1st sem (grade)", "recorded_value": 0.0, "decoded_value": "0 on the documented 0–20 scale", "decoding_status": "numeric", "dropout_raw_score_contribution": 0.09398060625426106, "direction": "raises"}, {"feature": "Tuition fees up to date", "recorded_value": 1, "decoded_value": "yes", "decoding_status": "verified_code", "dropout_raw_score_contribution": -0.3713239482147808, "direction": "lowers"}], "dropout_shap_baseline": -1.3153621241526836, "dropout_raw_score": -1.8508903347631942, "unshown_contributions_sum": -1.3184147276139138, "shap_units": "Dropout raw-score units, NOT percentage points", "probability_note": "Percentages rounded independently to one decimal place; totals may differ slightly from 100%."}<|im_end|>
+<|im_start|>assistant
+<think></think>

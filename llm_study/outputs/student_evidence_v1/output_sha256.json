@@ -1,0 +1,13 @@
+{
+  "evaluation_DO_NOT_PROMPT/outcomes_and_id_mapping.csv": "b428e9ee78efa42a5c806092c1f57e79e301b19b8cfbbf3b4ecbcd3649728f30",
+  "llm_inputs/test_evidence.jsonl": "9e72689cfea22653f1437b9b68cefe699dd7463d522e5443307bd6b90844f88f",
+  "llm_inputs/validation_evidence.jsonl": "af1eadbc915426aff3d44aef7aab268ccb024d343a92681237e696c8c0afb9cd",
+  "manifest.json": "7f8a98b67793d7110db16cd5522ed13962a7eb400d7dc36e6e6723afccb834f6",
+  "models/A_pre_enrollment.txt": "6d73c0efeff57cce6ef4be3f3ce907b09dfd1d8b20d9590aec4bda0f8ecd5171",
+  "models/A_pre_enrollment_preprocessing.json": "046bc922a9aba9d48ff4dc1f5d9999463837ec5f7633e9b835158c873cee1db5",
+  "models/B_first_semester.txt": "0375db0981c65e970cf43de107ecf76716a1d023f97888fe36696a6a7821d7ad",
+  "models/B_first_semester_preprocessing.json": "ab97b63c0b37d04df6a44c7be4e63bcf656d856a1db8672f5fb3b451853002e5",
+  "models/C_second_semester.txt": "09ffa55c4e31a2f55c5870ebc1f8aed253a242df0e9abb3db99d048dafb31e39",
+  "models/C_second_semester_preprocessing.json": "4082b2b995a7216d0f2f29a46c07486d4f7b3d46f8c99a6a82bcaa4c41ba8081",
+  "verification_checks.csv": "8fdd099b72e7962e8171b113b831986467f475f89cc337b33e2011fc94177cac"
+}

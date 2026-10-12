@@ -1,0 +1,25 @@
+specification,feature,mean_abs_shap
+A_pre_enrollment,Tuition fees up to date,0.4097172293332953
+A_pre_enrollment,Age at enrollment,0.261228245583728
+A_pre_enrollment,Scholarship holder,0.20307555196387828
+A_pre_enrollment,Course,0.15798222620346025
+A_pre_enrollment,Gender,0.12207087539032264
+A_pre_enrollment,Unemployment rate,0.11335142597752049
+A_pre_enrollment,Application mode,0.11224521916584211
+A_pre_enrollment,Admission grade,0.08017627733269027
+A_pre_enrollment,Application order,0.07852241630891055
+A_pre_enrollment,Mother's qualification,0.0724714800405056
+A_pre_enrollment,Mother's occupation,0.06781223343886814
+A_pre_enrollment,Previous qualification (grade),0.06302387942146408
+A_pre_enrollment,Father's occupation,0.05790778027338829
+A_pre_enrollment,GDP,0.05748059491192972
+A_pre_enrollment,Inflation rate,0.04751044199176689
+A_pre_enrollment,Displaced,0.044192147343131226
+A_pre_enrollment,Father's qualification,0.03839750574027813
+A_pre_enrollment,Debtor,0.0355559367326103
+A_pre_enrollment,Previous qualification,0.014897877411391936
+A_pre_enrollment,Marital status,0.010823439627997604
+A_pre_enrollment,Daytime/evening attendance,0.004703397643557546
+A_pre_enrollment,Nacionality,0.0025113257413827248
+A_pre_enrollment,Educational special needs,0.0006258339037550013
+A_pre_enrollment,International,0.0

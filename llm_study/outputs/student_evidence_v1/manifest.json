@@ -1,0 +1,67 @@
+{
+  "created_utc": "2026-10-09T10:43:00.064329+00:00",
+  "source": "/home/turgud.valiyev/dropout-llm-study/inputs/source/s1_verified",
+  "input_sha256": {
+    "/home/turgud.valiyev/dropout-llm-study/inputs/source/s1_verified/Dropout_Determinants/results/2.Model Processing/csv/modeling_master_dataset_with_splits.csv": "80f0c0414c0662e575b3d9d00308ae0d4130e6b256e44728ff6695a642cca4d0",
+    "/home/turgud.valiyev/dropout-llm-study/inputs/source/s1_verified/Dropout_Determinants/results/2.Model Processing/metadata/feature_sets_metadata.json": "a8e6aebea9bbf9bdc07b8af0f6d298875bc40854c728e69011b2e2c4f0e46b5d",
+    "/home/turgud.valiyev/dropout-llm-study/inputs/source/s1_verified/consistency_07_10/selected_test_bootstrap_ci.csv": "73dba6d583aea78b160667cb2f0be03f6d10c6f5df5a364c2825d573baa37c28",
+    "/home/turgud.valiyev/dropout-llm-study/inputs/source/s1_verified/Dropout_Determinants/models/preprocessing.py": "5792f11abde9dc887a8ddaab7d0daee0cf39d44e0f463c9fea4b49f9ee372afe",
+    "/home/turgud.valiyev/dropout-llm-study/scripts/export_student_evidence.py": "7921c399ea1f670b661b215b63c3d89df78d7eea2067ae205c64b29c9bef313e",
+    "/home/turgud.valiyev/dropout-llm-study/inputs/source/s1_verified/consistency_07_10/shap_A_pre_enrollment.csv": "94967d8be5df1aa3206b368a23307ea7feb2fac99fefad6986ac7229d03ebc4f",
+    "/home/turgud.valiyev/dropout-llm-study/inputs/source/s1_verified/consistency_07_10/shap_B_first_semester.csv": "5b2d0c48c1751cbe11a3e161afcc900084ef96ce5c2fe69001e2793c478f2925",
+    "/home/turgud.valiyev/dropout-llm-study/inputs/source/s1_verified/consistency_07_10/shap_C_second_semester.csv": "d09353967ab05ea2e6879969e5f1c9ed6db6163198463c9fde95d7ae61273822"
+  },
+  "counts": {
+    "train": 3097,
+    "validation": 885,
+    "test": 442
+  },
+  "seed": 123,
+  "model_parameters": {
+    "A_pre_enrollment": {
+      "learning_rate": 0.03,
+      "max_depth": 5,
+      "n_estimators": 400,
+      "num_leaves": 15
+    },
+    "B_first_semester": {
+      "learning_rate": 0.03,
+      "max_depth": -1,
+      "n_estimators": 200,
+      "num_leaves": 31
+    },
+    "C_second_semester": {
+      "learning_rate": 0.05,
+      "max_depth": 5,
+      "n_estimators": 200,
+      "num_leaves": 31
+    }
+  },
+  "environment": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "lightgbm": "4.7.0",
+    "shap": "0.52.0"
+  },
+  "python": "3.12.3 (main, Sep 11 2024, 14:17:37) [GCC 13.2.0]",
+  "class_order": [
+    "Dropout",
+    "Enrolled",
+    "Graduate"
+  ],
+  "training": "Original train split only; no validation/test refitting",
+  "shap": "Tree-path-dependent, raw scores; sum one-hot contributions within each original feature",
+  "status": "Verified evidence export only. No LLM outputs or performance claims.",
+  "next_gate": "Verify category meanings and freeze case-selection/prompt/evaluation protocol on validation data before LLM test runs.",
+  "limitations": [
+    "Explain this model prediction, not the student's actual outcome.",
+    "Model probabilities are uncalibrated estimates, not certainties.",
+    "SHAP contributions are in the Dropout class raw-score units, not percentage points.",
+    "A positive contribution raises the Dropout raw score relative to its SHAP baseline; a negative contribution lowers it.",
+    "Contributions are model associations, not causal effects or proven intervention benefits.",
+    "Categorical values are original dataset codes. Do not invent meanings without a verified codebook.",
+    "Financial variables may not have been recorded at the nominal prediction time; stage names do not establish prospective availability.",
+    "Do not infer motives, sensitive characteristics beyond recorded values, or unobserved circumstances."
+  ]
+}

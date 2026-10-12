@@ -1,0 +1,8 @@
+later_specification,earlier_specification,stage,comparison,difference,ci_low,ci_high
+recorded,recorded,B_first_semester,B_first_semester minus A_pre_enrollment,0.1122464067540319,0.0626812585168401,0.1608360435274692
+recorded,recorded,C_second_semester,C_second_semester minus B_first_semester,0.0156977070984014,-0.0257508793192214,0.0570318727948106
+without_untimestamped_financial_status,without_untimestamped_financial_status,B_first_semester,B_first_semester minus A_pre_enrollment,0.1052060592672959,0.0516152659753488,0.1597643404536302
+without_untimestamped_financial_status,without_untimestamped_financial_status,C_second_semester,C_second_semester minus B_first_semester,0.0370162081161447,-0.0056472239086249,0.0796246029608614
+without_untimestamped_financial_status,recorded,A_pre_enrollment,removed minus recorded,-0.0403259830152081,-0.080740100188844,-0.0003095110770346
+without_untimestamped_financial_status,recorded,B_first_semester,removed minus recorded,-0.0473663305019441,-0.0832440288404276,-0.0107896756168142
+without_untimestamped_financial_status,recorded,C_second_semester,removed minus recorded,-0.0260478294842009,-0.0609352288763842,0.0085515827259997

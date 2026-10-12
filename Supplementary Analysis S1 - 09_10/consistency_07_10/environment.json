@@ -1,0 +1,17 @@
+{
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "scikit-learn": "1.7.2",
+  "lightgbm": "4.7.0",
+  "shap": "0.52.0",
+  "xgboost": "3.4.1",
+  "catboost": "1.2.10",
+  "matplotlib": "3.11.2",
+  "python": "3.12.14",
+  "n_train": 3097,
+  "n_validation": 885,
+  "n_test": 442,
+  "seed": 123,
+  "metric": "balanced_accuracy = macro recall",
+  "selection": "Previously recorded validation-selected settings; no test-based reselection"
+}

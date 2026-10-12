@@ -1,0 +1,5 @@
+The model predicts a 65% probability of dropout, 15% of continued enrollment, and 20% of graduation after the first semester. This is an estimate of likely patterns, not a certainty for this student.
+
+The primary factors increasing the Dropout raw score are the student’s curricular units approved (+0.80) and average grade (+0.50). The number of curricular units enrolled slightly decreases the score (-0.10). The model’s baseline raw score is -0.40, resulting in a final score of +0.80.
+
+This explanation describes how the model arrived at its prediction based on the recorded data. It does not establish causal relationships or predict the student’s actual outcome.

@@ -1,0 +1,38 @@
+{
+  "started_utc": "2026-10-09T11:33:12.423412+00:00",
+  "status": "completed",
+  "scope": "Validation development pilot only; not final evaluation or predictive improvement evidence",
+  "input_sha256": {
+    "protocol.json": "504728a951e5387ed46b2859ea4e81df4809239d443e48dfb59a2abe281a8dd0",
+    "pilot_prompts.jsonl": "921ea7679f58b7d4bed0bc4bffbdae1d999b9a2174bb69d4c6d5def561d3d344"
+  },
+  "script_sha256": "899d1e880c2fb9f0f834ea0d66927244c81d5cac79d63bd9c94006ae16cf8f62",
+  "model_path": "/home/turgud.valiyev/rdcc-distillation/models/nemotron_3_5_lightning_bf16",
+  "slurm_job_id": "1727618",
+  "settings": {
+    "enable_thinking": false,
+    "do_sample": false,
+    "max_new_tokens": 512,
+    "seed": 123,
+    "dtype": "bfloat16",
+    "device_map": "balanced",
+    "attention": "eager"
+  },
+  "load_seconds": 141.49798684939742,
+  "python": "3.12.3 (main, Sep 11 2024, 14:17:37) [GCC 13.2.0]",
+  "environment": {
+    "torch": "2.11.0+cu126",
+    "transformers": "5.7.0.dev0",
+    "accelerate": "1.13.0"
+  },
+  "gpu_names": [
+    "NVIDIA L40S",
+    "NVIDIA L40S"
+  ],
+  "model_file_sha256": {
+    "config.json": "a3827a0f5e311547b40943dc081e3ff2f8a277466e8c1a3df2291e8db8a7617c",
+    "tokenizer_config.json": "10f93eabcb9b1602fbb991d6308e787ce1df28ee9cd7a1c6d1e8c3f338b957bc",
+    "model.safetensors.index.json": "67f21da80ce245a3e24967f54eef3fa10e67a63eba16ef19a2d0569f06103f50"
+  },
+  "finished_utc": "2026-10-09T11:38:08.809526+00:00"
+}

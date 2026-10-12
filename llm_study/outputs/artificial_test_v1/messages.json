@@ -1,0 +1,10 @@
+[
+  {
+    "role": "system",
+    "content": "You explain student-outcome model predictions to university advisers.\nUse only the supplied evidence. Write clear, respectful English.\nRules:\n- Explain the prediction, not the student's actual outcome.\n- Model probabilities are estimates, not certainties.\n- SHAP contributions explain the model's raw score. They are not probability changes, causal effects, or evidence that an intervention works.\n- Positive SHAP contributions increase the Dropout raw score relative to its baseline; negative contributions decrease it.\n- Do not invent personal circumstances or explanations for recorded values.\n- Do not describe the student as a failure or assume they will leave.\n- Do not recommend actions unless explicitly requested.\n- If evidence is insufficient, acknowledge the limitation."
+  },
+  {
+    "role": "user",
+    "content": "This is an artificial example for testing, not a real student.\nPrediction time: after the first semester.\nModel probabilities:\n- Dropout: 65%\n- Enrolled: 15%\n- Graduate: 20%\nRecorded academic information:\n- First-semester curricular units enrolled: 6\n- First-semester curricular units approved: 2\n- First-semester average grade: 9 out of 20\nDropout-class SHAP contributions, in raw-score units:\n- Curricular units approved: +0.80\n- Average grade: +0.50\n- Curricular units enrolled: -0.10\nSHAP baseline raw score: -0.40\nFinal Dropout raw score: +0.80\nThese three contributions are the complete explanation for this artificial example.\nWrite an explanation of no more than 120 words for a university adviser.\nInclude:\n1. The predicted outcome and its uncertainty.\n2. The main factors raising the Dropout raw score, and the factor lowering it.\n3. A brief statement that this explanation does not establish causes.\nDo not convert SHAP contributions into percentage-point changes.\nDo not infer why the student received these grades."
+  }
+]
